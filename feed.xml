@@ -20,6 +20,17 @@
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
     <item>
+      <title>Super Is Not Superior</title>
+      <description>A deep dive into Tejas Kumar's essay "AI Is Now SI: Super Intelligence Isn't Superior," via a knowledge graph of its argument. The essay says "super" describes task performance while "superior" claims worth, and that renaming AI "Super Intelligence" blurs the two. Covers Bostrom's definition of superintelligence, real machine milestones, the BCG "jagged frontier" study, the golden calf, Calvin's "forge of idols," the sun renamed "the greater light" in Genesis, and the essay's case for loyalty as a willingness to overpay. 2026 events are as reported in the essay.</description>
+      <itunes:summary>A deep dive into Tejas Kumar's essay "AI Is Now SI: Super Intelligence Isn't Superior," via a knowledge graph of its argument. The essay says "super" describes task performance while "superior" claims worth, and that renaming AI "Super Intelligence" blurs the two. Covers Bostrom's definition of superintelligence, real machine milestones, the BCG "jagged frontier" study, the golden calf, Calvin's "forge of idols," the sun renamed "the greater light" in Genesis, and the essay's case for loyalty as a willingness to overpay. 2026 events are as reported in the essay.</itunes:summary>
+      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/super-is-not-superior.mp3" length="14062697" type="audio/mpeg"/>
+      <guid isPermaLink="false">f1e6ac73-1dc4-451e-8102-6227fd7bb104</guid>
+      <pubDate>Mon, 05 Oct 2026 17:44:50 -0700</pubDate>
+      <itunes:duration>14:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Fine-Tuning at Home: Beat Frontier Models With 8 Steps</title>
       <description>A two-host walkthrough of a knowledge graph built from Maxime Rivest's article "Even you can now fine-tune an LLM, and maybe you finally should." The claim: with a coding agent, a frontier "teacher" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.</description>
       <itunes:summary>A two-host walkthrough of a knowledge graph built from Maxime Rivest's article "Even you can now fine-tune an LLM, and maybe you finally should." The claim: with a coding agent, a frontier "teacher" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.</itunes:summary>
