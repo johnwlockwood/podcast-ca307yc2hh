@@ -7,5 +7,18 @@
   "cover": "cover.jpg",
   "timezone": "America/Los_Angeles",
   "block": true,
-  "base_url": "https://johnwlockwood.github.io/podcast-ca307yc2hh"
+  "base_url": "https://johnwlockwood.github.io/podcast-ca307yc2hh",
+  "storage": {
+    "type": "r2",
+    "bucket": "interest-maxed-podcasts",
+    "public_base_url": "https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev",
+    "prefix": "episodes/",
+    "region": "auto",
+    "cache_control": "public, max-age=31536000, immutable",
+    "credentials_env": {
+      "access_key_id": "R2_ACCESS_KEY_ID",
+      "secret_access_key": "R2_SECRET_ACCESS_KEY",
+      "account_id": "R2_ACCOUNT_ID"
+    }
+  }
 }

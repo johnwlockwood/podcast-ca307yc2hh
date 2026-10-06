@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:11:54 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:04:29 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -23,7 +23,7 @@
       <title>How to Research Anything, Part 2: Why It Works</title>
       <description>Part 2 opens with a quick recap of the method, then looks at why it might work and where it falls short. The knowledge graph adds outside theories, all flagged as interpretation: the guide's 'plateau of diminishing returns' mirrors ecology's rule for when a forager should leave a patch, 'useful a year from now?' estimates how fast a field's facts go stale, and a pre-set 'done' is Herbert Simon's satisficing. Then two tensions the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. We close with cross-domain synthesis and the author's compounding research playbook.</description>
       <itunes:summary>Part 2 opens with a quick recap of the method, then looks at why it might work and where it falls short. The knowledge graph adds outside theories, all flagged as interpretation: the guide's 'plateau of diminishing returns' mirrors ecology's rule for when a forager should leave a patch, 'useful a year from now?' estimates how fast a field's facts go stale, and a pre-set 'done' is Herbert Simon's satisficing. Then two tensions the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. We close with cross-domain synthesis and the author's compounding research playbook.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/research-anything-part-2.mp3" length="12133816" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/research-anything-part-2.mp3" length="12133816" type="audio/mpeg"/>
       <guid isPermaLink="false">57afbd78-9bd4-4430-b0e8-3f0df5ee1022</guid>
       <pubDate>Mon, 05 Oct 2026 22:11:53 -0700</pubDate>
       <itunes:duration>12:38</itunes:duration>
@@ -34,7 +34,7 @@
       <title>How to Research Anything, Part 1: The Method</title>
       <description>Part 1 of a two-parter on Polymath Investor's practitioner guide to independent research. We walk one made-up project through the whole method: scope a small question that passes the 'So what?' test, cap your time, choose sources that will still matter in a year, skim twenty and read three deeply, check key facts against three independent witnesses, keep one-idea notes with their sources, and decide what 'done' means before you start. The guide is one person's untested advice, and its paywalled section is known only from a teaser. Ends with a teaser for Part 2.</description>
       <itunes:summary>Part 1 of a two-parter on Polymath Investor's practitioner guide to independent research. We walk one made-up project through the whole method: scope a small question that passes the 'So what?' test, cap your time, choose sources that will still matter in a year, skim twenty and read three deeply, check key facts against three independent witnesses, keep one-idea notes with their sources, and decide what 'done' means before you start. The guide is one person's untested advice, and its paywalled section is known only from a teaser. Ends with a teaser for Part 2.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/research-anything-part-1.mp3" length="12194838" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/research-anything-part-1.mp3" length="12194838" type="audio/mpeg"/>
       <guid isPermaLink="false">0a7bdc75-b07b-4d09-8c72-d6d61c803709</guid>
       <pubDate>Mon, 05 Oct 2026 22:10:52 -0700</pubDate>
       <itunes:duration>12:42</itunes:duration>
@@ -45,7 +45,7 @@
       <title>How to Research Anything</title>
       <description>A walk through Polymath Investor's practitioner guide to independent research: scope a small question that passes the 'So what?' test, cap your time, skim twenty sources and read three deeply, check key facts against three independent witnesses, and decide what 'done' means before you start. The knowledge graph adds its own theory lenses, flagged as interpretation, most notably that the guide's 'plateau of diminishing returns' mirrors the foraging rule ecologists use for when an animal should move on. We also cover the tensions the graph raises and the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. The guide is one person's advice, not a tested method, and its paywalled section is known only from a teaser.</description>
       <itunes:summary>A walk through Polymath Investor's practitioner guide to independent research: scope a small question that passes the 'So what?' test, cap your time, skim twenty sources and read three deeply, check key facts against three independent witnesses, and decide what 'done' means before you start. The knowledge graph adds its own theory lenses, flagged as interpretation, most notably that the guide's 'plateau of diminishing returns' mirrors the foraging rule ecologists use for when an animal should move on. We also cover the tensions the graph raises and the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. The guide is one person's advice, not a tested method, and its paywalled section is known only from a teaser.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/research-anything.mp3" length="14024245" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/research-anything.mp3" length="14024245" type="audio/mpeg"/>
       <guid isPermaLink="false">e42fb5bd-0c36-4f10-a58c-cf61c1290c9f</guid>
       <pubDate>Mon, 05 Oct 2026 21:57:51 -0700</pubDate>
       <itunes:duration>14:36</itunes:duration>
@@ -56,7 +56,7 @@
       <title>The Slop Superhighway</title>
       <description>Rhys Sullivan argues that agents flooding human channels like GitHub issues isn't the real failure. The failure is that there's no agent-to-agent channel to carry that traffic, so humans end up as 'meat proxies' copy-pasting between AIs. We walk through his first-person Cloudflare bug story (single-sourced), the 2025 issueslop backlash, what exists today (author-side issue triage, MCP, A2A), and what's still missing: identity, payments, and defenses against prompt injection. We close with economics and liability lenses, which the knowledge graph adds as its own speculative extensions rather than claims from the post.</description>
       <itunes:summary>Rhys Sullivan argues that agents flooding human channels like GitHub issues isn't the real failure. The failure is that there's no agent-to-agent channel to carry that traffic, so humans end up as 'meat proxies' copy-pasting between AIs. We walk through his first-person Cloudflare bug story (single-sourced), the 2025 issueslop backlash, what exists today (author-side issue triage, MCP, A2A), and what's still missing: identity, payments, and defenses against prompt injection. We close with economics and liability lenses, which the knowledge graph adds as its own speculative extensions rather than claims from the post.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/slop-superhighway.mp3" length="14021737" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/slop-superhighway.mp3" length="14021737" type="audio/mpeg"/>
       <guid isPermaLink="false">9eea952f-1473-4143-a675-b3e48d7b2605</guid>
       <pubDate>Mon, 05 Oct 2026 18:40:40 -0700</pubDate>
       <itunes:duration>14:36</itunes:duration>
@@ -67,7 +67,7 @@
       <title>When Your GTM Brain Lives in Git</title>
       <description>A two-host walkthrough of a knowledge graph built from John Kutay's post "GTM in git," based on his San Francisco talk "Your GTM Belongs in git." The argument: put as much go-to-market work as possible into a git repo that coding agents can reason over, test and scale, with the repo as the "logical brain" and hosted infrastructure taking over only when scale demands it. Covers Rippling's GrowthOS (usage figures are self-reported), agent harnesses and sandboxes, GTM evals, context engineering and shared definitions, and the marketer-as-AI-engineer shift. Also the graph's own additions: a GitOps lineage, a governance caution about agents querying production data, and why "ideas become the bottleneck" is still a contested prediction.</description>
       <itunes:summary>A two-host walkthrough of a knowledge graph built from John Kutay's post "GTM in git," based on his San Francisco talk "Your GTM Belongs in git." The argument: put as much go-to-market work as possible into a git repo that coding agents can reason over, test and scale, with the repo as the "logical brain" and hosted infrastructure taking over only when scale demands it. Covers Rippling's GrowthOS (usage figures are self-reported), agent harnesses and sandboxes, GTM evals, context engineering and shared definitions, and the marketer-as-AI-engineer shift. Also the graph's own additions: a GitOps lineage, a governance caution about agents querying production data, and why "ideas become the bottleneck" is still a contested prediction.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/gtm-brain-in-git.mp3" length="13392709" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/gtm-brain-in-git.mp3" length="13392709" type="audio/mpeg"/>
       <guid isPermaLink="false">499972c3-6df8-44ab-82cf-4b00d8b7f3c4</guid>
       <pubDate>Mon, 05 Oct 2026 18:30:35 -0700</pubDate>
       <itunes:duration>13:57</itunes:duration>
@@ -78,7 +78,7 @@
       <title>Super Is Not Superior</title>
       <description>A deep dive into Tejas Kumar's essay "AI Is Now SI: Super Intelligence Isn't Superior," via a knowledge graph of its argument. The essay says "super" describes task performance while "superior" claims worth, and that renaming AI "Super Intelligence" blurs the two. Covers Bostrom's definition of superintelligence, real machine milestones, the BCG "jagged frontier" study, the golden calf, Calvin's "forge of idols," the sun renamed "the greater light" in Genesis, and the essay's case for loyalty as a willingness to overpay. 2026 events are as reported in the essay.</description>
       <itunes:summary>A deep dive into Tejas Kumar's essay "AI Is Now SI: Super Intelligence Isn't Superior," via a knowledge graph of its argument. The essay says "super" describes task performance while "superior" claims worth, and that renaming AI "Super Intelligence" blurs the two. Covers Bostrom's definition of superintelligence, real machine milestones, the BCG "jagged frontier" study, the golden calf, Calvin's "forge of idols," the sun renamed "the greater light" in Genesis, and the essay's case for loyalty as a willingness to overpay. 2026 events are as reported in the essay.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/super-is-not-superior.mp3" length="14062697" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/super-is-not-superior.mp3" length="14062697" type="audio/mpeg"/>
       <guid isPermaLink="false">f1e6ac73-1dc4-451e-8102-6227fd7bb104</guid>
       <pubDate>Mon, 05 Oct 2026 17:44:50 -0700</pubDate>
       <itunes:duration>14:39</itunes:duration>
@@ -89,7 +89,7 @@
       <title>Fine-Tuning at Home: Beat Frontier Models With 8 Steps</title>
       <description>A two-host walkthrough of a knowledge graph built from Maxime Rivest's article "Even you can now fine-tune an LLM, and maybe you finally should." The claim: with a coding agent, a frontier "teacher" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.</description>
       <itunes:summary>A two-host walkthrough of a knowledge graph built from Maxime Rivest's article "Even you can now fine-tune an LLM, and maybe you finally should." The claim: with a coding agent, a frontier "teacher" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.</itunes:summary>
-      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/fine-tuning-at-home.mp3" length="6404372" type="audio/mpeg"/>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/fine-tuning-at-home.mp3" length="6404372" type="audio/mpeg"/>
       <guid isPermaLink="false">43378c1f-c7f4-4547-9f92-d1ee16e5f567</guid>
       <pubDate>Mon, 05 Oct 2026 15:11:05 -0700</pubDate>
       <itunes:duration>13:11</itunes:duration>
