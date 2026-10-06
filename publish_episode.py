@@ -2,6 +2,7 @@
 """Publish a podcast episode to a static (GitHub Pages) RSS feed.
 
   publish_episode.py add EPISODE.mp3 --title "Title" --description "Text" [--date ISO8601] [--no-push]
+  publish_episode.py remove FILE|SLUG|GUID [--keep-file] [--no-push]   # drop an episode + its MP3
   publish_episode.py build [--no-push]      # regenerate feed.xml from episodes.json only
 
 Copies the MP3 into episodes/, records it in episodes.json (byte length, duration, guid,
@@ -114,6 +115,9 @@ def main():
     a = sub.add_parser("add"); a.add_argument("mp3"); a.add_argument("--title", required=True)
     a.add_argument("--description", required=True); a.add_argument("--date", help="ISO 8601; default now")
     a.add_argument("--slug"); a.add_argument("--no-push", action="store_true")
+    r = sub.add_parser("remove"); r.add_argument("episode", help="file name, slug (file without .mp3) or guid")
+    r.add_argument("--keep-file", action="store_true", help="leave the MP3 in episodes/")
+    r.add_argument("--no-push", action="store_true")
     b = sub.add_parser("build"); b.add_argument("--no-push", action="store_true")
     args = ap.parse_args()
     if args.cmd == "add":
@@ -136,6 +140,19 @@ def main():
         write_feed()
         commit_push(f"Add episode: {args.title}", push=not args.no_push)
         print(f"published episodes/{name} ({size} bytes)")
+    elif args.cmd == "remove":
+        eps = load(MANIFEST, [])
+        key = args.episode
+        hits = [e for e in eps if key in (e["file"], e["guid"], os.path.splitext(e["file"])[0])]
+        if len(hits) != 1: sys.exit(f"expected exactly one episode matching {key!r}, found {len(hits)}")
+        e = hits[0]
+        eps.remove(e)
+        json.dump(eps, open(MANIFEST, "w"), indent=2)
+        path = os.path.join(EP_DIR, e["file"])
+        if not args.keep_file and os.path.exists(path): os.remove(path)
+        write_feed()
+        commit_push(f"Remove episode: {e['title']}", push=not args.no_push)
+        print(f"removed {e['file']} ({e['title']}); {len(eps)} episodes remain")
     else:
         print(f"feed.xml rebuilt with {write_feed()} episodes")
         commit_push("Rebuild feed", push=not args.no_push)
