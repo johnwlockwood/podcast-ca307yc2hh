@@ -70,5 +70,14 @@
     "length": 13915994,
     "duration": 870,
     "pub_date": "2026-10-06T08:55:52.927203-07:00"
+  },
+  {
+    "guid": "96265f92-2d19-407d-89bd-00ed8d8eed67",
+    "title": "Prediction Markets, Part 1: How a Price Becomes a Forecast",
+    "description": "Part 1 of a two-parter built from a knowledge graph on prediction markets. A contract pays one dollar if an event happens, so its price reads as a probability. We cover why economists think that should work (Hayek's idea that prices pool scattered knowledge, plus Arrow-Debreu and efficient markets), the automated market maker that keeps thin markets trading, corporate markets at firms like Google, and how the law shaped the field: Iowa Electronic Markets, Intrade's shutdown, Polymarket's exit and 2025 return, and Kalshi's court win. We end with catastrophe bonds as an older, professional version of the same idea. Dated events were checked against news coverage. Not betting or investment advice.",
+    "file": "prediction-markets-part-1.mp3",
+    "length": 12241649,
+    "duration": 765,
+    "pub_date": "2026-10-06T09:18:22-07:00"
   }
 ]
