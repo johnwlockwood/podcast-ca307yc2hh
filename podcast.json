@@ -1,0 +1,11 @@
+{
+  "title": "John's Deep Dives",
+  "description": "Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.",
+  "author": "John Lockwood",
+  "language": "en-us",
+  "category": "Technology",
+  "cover": "cover.jpg",
+  "timezone": "America/Los_Angeles",
+  "block": true,
+  "base_url": "https://johnwlockwood.github.io/podcast-ca307yc2hh"
+}

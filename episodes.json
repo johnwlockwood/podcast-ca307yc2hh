@@ -1,0 +1,11 @@
+[
+  {
+    "guid": "43378c1f-c7f4-4547-9f92-d1ee16e5f567",
+    "title": "Fine-Tuning at Home: Beat Frontier Models With 8 Steps",
+    "description": "A two-host walkthrough of a knowledge graph built from Maxime Rivest's article \"Even you can now fine-tune an LLM, and maybe you finally should.\" The claim: with a coding agent, a frontier \"teacher\" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.",
+    "file": "fine-tuning-at-home.mp3",
+    "length": 6404372,
+    "duration": 791,
+    "pub_date": "2026-10-05T15:11:05-07:00"
+  }
+]

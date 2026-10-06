@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>John's Deep Dives</title>
+    <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
+    <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2026 18:06:31 -0700</lastBuildDate>
+    <itunes:author>John Lockwood</itunes:author>
+    <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://johnwlockwood.github.io/podcast-ca307yc2hh/cover.jpg"/>
+    <image>
+      <url>https://johnwlockwood.github.io/podcast-ca307yc2hh/cover.jpg</url>
+      <title>John's Deep Dives</title>
+      <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
+    </image>
+    <item>
+      <title>Fine-Tuning at Home: Beat Frontier Models With 8 Steps</title>
+      <description>A two-host walkthrough of a knowledge graph built from Maxime Rivest's article "Even you can now fine-tune an LLM, and maybe you finally should." The claim: with a coding agent, a frontier "teacher" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.</description>
+      <itunes:summary>A two-host walkthrough of a knowledge graph built from Maxime Rivest's article "Even you can now fine-tune an LLM, and maybe you finally should." The claim: with a coding agent, a frontier "teacher" model and LoRA adapters on consumer hardware, fine-tuning a task-specific model is now something one person can do. Covers the eight-step workflow, synthetic distillation, why training loss kept improving while rubric scores plateaued, the roughly 1,000-example saturation point, the break-even math (about 170 papers per hour), licensing limits on training with model outputs, and the last-mile accuracy problem. Benchmark figures are the author's own reported results.</itunes:summary>
+      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/fine-tuning-at-home.mp3" length="6404372" type="audio/mpeg"/>
+      <guid isPermaLink="false">43378c1f-c7f4-4547-9f92-d1ee16e5f567</guid>
+      <pubDate>Mon, 05 Oct 2026 15:11:05 -0700</pubDate>
+      <itunes:duration>13:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
