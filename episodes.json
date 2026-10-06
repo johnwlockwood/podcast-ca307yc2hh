@@ -16,5 +16,14 @@
     "length": 14062697,
     "duration": 879,
     "pub_date": "2026-10-05T17:44:50-07:00"
+  },
+  {
+    "guid": "499972c3-6df8-44ab-82cf-4b00d8b7f3c4",
+    "title": "When Your GTM Brain Lives in Git",
+    "description": "A two-host walkthrough of a knowledge graph built from John Kutay's post \"GTM in git,\" based on his San Francisco talk \"Your GTM Belongs in git.\" The argument: put as much go-to-market work as possible into a git repo that coding agents can reason over, test and scale, with the repo as the \"logical brain\" and hosted infrastructure taking over only when scale demands it. Covers Rippling's GrowthOS (usage figures are self-reported), agent harnesses and sandboxes, GTM evals, context engineering and shared definitions, and the marketer-as-AI-engineer shift. Also the graph's own additions: a GitOps lineage, a governance caution about agents querying production data, and why \"ideas become the bottleneck\" is still a contested prediction.",
+    "file": "gtm-brain-in-git.mp3",
+    "length": 13392709,
+    "duration": 837,
+    "pub_date": "2026-10-05T18:30:35.183087-07:00"
   }
 ]

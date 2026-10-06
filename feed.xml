@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:06:31 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:30:35 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>When Your GTM Brain Lives in Git</title>
+      <description>A two-host walkthrough of a knowledge graph built from John Kutay's post "GTM in git," based on his San Francisco talk "Your GTM Belongs in git." The argument: put as much go-to-market work as possible into a git repo that coding agents can reason over, test and scale, with the repo as the "logical brain" and hosted infrastructure taking over only when scale demands it. Covers Rippling's GrowthOS (usage figures are self-reported), agent harnesses and sandboxes, GTM evals, context engineering and shared definitions, and the marketer-as-AI-engineer shift. Also the graph's own additions: a GitOps lineage, a governance caution about agents querying production data, and why "ideas become the bottleneck" is still a contested prediction.</description>
+      <itunes:summary>A two-host walkthrough of a knowledge graph built from John Kutay's post "GTM in git," based on his San Francisco talk "Your GTM Belongs in git." The argument: put as much go-to-market work as possible into a git repo that coding agents can reason over, test and scale, with the repo as the "logical brain" and hosted infrastructure taking over only when scale demands it. Covers Rippling's GrowthOS (usage figures are self-reported), agent harnesses and sandboxes, GTM evals, context engineering and shared definitions, and the marketer-as-AI-engineer shift. Also the graph's own additions: a GitOps lineage, a governance caution about agents querying production data, and why "ideas become the bottleneck" is still a contested prediction.</itunes:summary>
+      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/gtm-brain-in-git.mp3" length="13392709" type="audio/mpeg"/>
+      <guid isPermaLink="false">499972c3-6df8-44ab-82cf-4b00d8b7f3c4</guid>
+      <pubDate>Mon, 05 Oct 2026 18:30:35 -0700</pubDate>
+      <itunes:duration>13:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Super Is Not Superior</title>
       <description>A deep dive into Tejas Kumar's essay "AI Is Now SI: Super Intelligence Isn't Superior," via a knowledge graph of its argument. The essay says "super" describes task performance while "superior" claims worth, and that renaming AI "Super Intelligence" blurs the two. Covers Bostrom's definition of superintelligence, real machine milestones, the BCG "jagged frontier" study, the golden calf, Calvin's "forge of idols," the sun renamed "the greater light" in Genesis, and the essay's case for loyalty as a willingness to overpay. 2026 events are as reported in the essay.</description>
