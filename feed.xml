@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 21:57:51 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:10:52 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>How to Research Anything, Part 1: The Method</title>
+      <description>Part 1 of a two-parter on Polymath Investor's practitioner guide to independent research. We walk one made-up project through the whole method: scope a small question that passes the 'So what?' test, cap your time, choose sources that will still matter in a year, skim twenty and read three deeply, check key facts against three independent witnesses, keep one-idea notes with their sources, and decide what 'done' means before you start. The guide is one person's untested advice, and its paywalled section is known only from a teaser. Ends with a teaser for Part 2.</description>
+      <itunes:summary>Part 1 of a two-parter on Polymath Investor's practitioner guide to independent research. We walk one made-up project through the whole method: scope a small question that passes the 'So what?' test, cap your time, choose sources that will still matter in a year, skim twenty and read three deeply, check key facts against three independent witnesses, keep one-idea notes with their sources, and decide what 'done' means before you start. The guide is one person's untested advice, and its paywalled section is known only from a teaser. Ends with a teaser for Part 2.</itunes:summary>
+      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/research-anything-part-1.mp3" length="12194838" type="audio/mpeg"/>
+      <guid isPermaLink="false">0a7bdc75-b07b-4d09-8c72-d6d61c803709</guid>
+      <pubDate>Mon, 05 Oct 2026 22:10:52 -0700</pubDate>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How to Research Anything</title>
       <description>A walk through Polymath Investor's practitioner guide to independent research: scope a small question that passes the 'So what?' test, cap your time, skim twenty sources and read three deeply, check key facts against three independent witnesses, and decide what 'done' means before you start. The knowledge graph adds its own theory lenses, flagged as interpretation, most notably that the guide's 'plateau of diminishing returns' mirrors the foraging rule ecologists use for when an animal should move on. We also cover the tensions the graph raises and the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. The guide is one person's advice, not a tested method, and its paywalled section is known only from a teaser.</description>
