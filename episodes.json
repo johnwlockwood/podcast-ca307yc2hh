@@ -25,5 +25,14 @@
     "length": 13392709,
     "duration": 837,
     "pub_date": "2026-10-05T18:30:35.183087-07:00"
+  },
+  {
+    "guid": "9eea952f-1473-4143-a675-b3e48d7b2605",
+    "title": "The Slop Superhighway",
+    "description": "Rhys Sullivan argues that agents flooding human channels like GitHub issues isn't the real failure. The failure is that there's no agent-to-agent channel to carry that traffic, so humans end up as 'meat proxies' copy-pasting between AIs. We walk through his first-person Cloudflare bug story (single-sourced), the 2025 issueslop backlash, what exists today (author-side issue triage, MCP, A2A), and what's still missing: identity, payments, and defenses against prompt injection. We close with economics and liability lenses, which the knowledge graph adds as its own speculative extensions rather than claims from the post.",
+    "file": "slop-superhighway.mp3",
+    "length": 14021737,
+    "duration": 876,
+    "pub_date": "2026-10-05T18:40:40.257273-07:00"
   }
 ]
