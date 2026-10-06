@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:18:24 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:19:28 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Prediction Markets, Part 2: When the Price Lies</title>
+      <description>Part 2 opens with a quick recap, then a March 2025 Polymarket market on a Ukraine minerals deal that, per news reports, resolved 'yes' with no deal signed after a token-holder vote. We cover the favorite-longshot bias (prices act like betting odds in the tails), wash trading and why volume isn't proof (estimates vary widely), oracles as the real point of centralization, and the parallel with catastrophe-bond triggers. Then the rivals: the Good Judgment Project's superforecasters and no-money platforms like Metaculus and Manifold, where the comparisons are messy. We close with futarchy, Hanson's untested idea to 'vote on values, bet on beliefs.' Not betting or investment advice.</description>
+      <itunes:summary>Part 2 opens with a quick recap, then a March 2025 Polymarket market on a Ukraine minerals deal that, per news reports, resolved 'yes' with no deal signed after a token-holder vote. We cover the favorite-longshot bias (prices act like betting odds in the tails), wash trading and why volume isn't proof (estimates vary widely), oracles as the real point of centralization, and the parallel with catastrophe-bond triggers. Then the rivals: the Good Judgment Project's superforecasters and no-money platforms like Metaculus and Manifold, where the comparisons are messy. We close with futarchy, Hanson's untested idea to 'vote on values, bet on beliefs.' Not betting or investment advice.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/prediction-markets-part-2.mp3" length="12306433" type="audio/mpeg"/>
+      <guid isPermaLink="false">e70435a4-aec3-4379-9d4c-434c5af3e7dc</guid>
+      <pubDate>Tue, 06 Oct 2026 09:19:25 -0700</pubDate>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Prediction Markets, Part 1: How a Price Becomes a Forecast</title>
       <description>Part 1 of a two-parter built from a knowledge graph on prediction markets. A contract pays one dollar if an event happens, so its price reads as a probability. We cover why economists think that should work (Hayek's idea that prices pool scattered knowledge, plus Arrow-Debreu and efficient markets), the automated market maker that keeps thin markets trading, corporate markets at firms like Google, and how the law shaped the field: Iowa Electronic Markets, Intrade's shutdown, Polymarket's exit and 2025 return, and Kalshi's court win. We end with catastrophe bonds as an older, professional version of the same idea. Dated events were checked against news coverage. Not betting or investment advice.</description>
