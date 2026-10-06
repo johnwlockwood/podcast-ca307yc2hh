@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:40:40 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:57:51 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>How to Research Anything</title>
+      <description>A walk through Polymath Investor's practitioner guide to independent research: scope a small question that passes the 'So what?' test, cap your time, skim twenty sources and read three deeply, check key facts against three independent witnesses, and decide what 'done' means before you start. The knowledge graph adds its own theory lenses, flagged as interpretation, most notably that the guide's 'plateau of diminishing returns' mirrors the foraging rule ecologists use for when an animal should move on. We also cover the tensions the graph raises and the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. The guide is one person's advice, not a tested method, and its paywalled section is known only from a teaser.</description>
+      <itunes:summary>A walk through Polymath Investor's practitioner guide to independent research: scope a small question that passes the 'So what?' test, cap your time, skim twenty sources and read three deeply, check key facts against three independent witnesses, and decide what 'done' means before you start. The knowledge graph adds its own theory lenses, flagged as interpretation, most notably that the guide's 'plateau of diminishing returns' mirrors the foraging rule ecologists use for when an animal should move on. We also cover the tensions the graph raises and the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. The guide is one person's advice, not a tested method, and its paywalled section is known only from a teaser.</itunes:summary>
+      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/research-anything.mp3" length="14024245" type="audio/mpeg"/>
+      <guid isPermaLink="false">e42fb5bd-0c36-4f10-a58c-cf61c1290c9f</guid>
+      <pubDate>Mon, 05 Oct 2026 21:57:51 -0700</pubDate>
+      <itunes:duration>14:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Slop Superhighway</title>
       <description>Rhys Sullivan argues that agents flooding human channels like GitHub issues isn't the real failure. The failure is that there's no agent-to-agent channel to carry that traffic, so humans end up as 'meat proxies' copy-pasting between AIs. We walk through his first-person Cloudflare bug story (single-sourced), the 2025 issueslop backlash, what exists today (author-side issue triage, MCP, A2A), and what's still missing: identity, payments, and defenses against prompt injection. We close with economics and liability lenses, which the knowledge graph adds as its own speculative extensions rather than claims from the post.</description>
