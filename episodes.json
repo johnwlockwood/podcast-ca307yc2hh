@@ -61,5 +61,14 @@
     "length": 12133816,
     "duration": 758,
     "pub_date": "2026-10-05T22:11:53-07:00"
+  },
+  {
+    "guid": "0b7da88d-4196-43ad-ab59-b02e4e8e4e84",
+    "title": "Cancer's Second Verb: Converting Tumors Instead of Killing Them",
+    "description": "A walk through a knowledge graph built from Brian Roemmele's X post on a KAIST study (Advanced Science, 2024). As the post tells it, researchers built a 'digital twin' of an intestinal cell's gene network, used an algorithm called BENEIN to pick three genes (MYB, HDAC2, FOXA2), and turned colon cancer cells into normal-like cells in cell lines and mice by maturing them rather than killing them. This is early preclinical work with no human data, described secondhand, and nothing here is medical advice. The graph adds context: differentiation therapy has treated the leukemia APL for decades, the idea builds on Waddington, Kauffman and Yamanaka, and hard-to-drug targets, durability (speculative) and the tumor's surroundings could keep it from becoming a therapy.",
+    "file": "cancer-reversion.mp3",
+    "length": 13915994,
+    "duration": 870,
+    "pub_date": "2026-10-06T08:55:52.927203-07:00"
   }
 ]

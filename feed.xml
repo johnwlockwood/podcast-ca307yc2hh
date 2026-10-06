@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:04:29 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:55:53 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Cancer's Second Verb: Converting Tumors Instead of Killing Them</title>
+      <description>A walk through a knowledge graph built from Brian Roemmele's X post on a KAIST study (Advanced Science, 2024). As the post tells it, researchers built a 'digital twin' of an intestinal cell's gene network, used an algorithm called BENEIN to pick three genes (MYB, HDAC2, FOXA2), and turned colon cancer cells into normal-like cells in cell lines and mice by maturing them rather than killing them. This is early preclinical work with no human data, described secondhand, and nothing here is medical advice. The graph adds context: differentiation therapy has treated the leukemia APL for decades, the idea builds on Waddington, Kauffman and Yamanaka, and hard-to-drug targets, durability (speculative) and the tumor's surroundings could keep it from becoming a therapy.</description>
+      <itunes:summary>A walk through a knowledge graph built from Brian Roemmele's X post on a KAIST study (Advanced Science, 2024). As the post tells it, researchers built a 'digital twin' of an intestinal cell's gene network, used an algorithm called BENEIN to pick three genes (MYB, HDAC2, FOXA2), and turned colon cancer cells into normal-like cells in cell lines and mice by maturing them rather than killing them. This is early preclinical work with no human data, described secondhand, and nothing here is medical advice. The graph adds context: differentiation therapy has treated the leukemia APL for decades, the idea builds on Waddington, Kauffman and Yamanaka, and hard-to-drug targets, durability (speculative) and the tumor's surroundings could keep it from becoming a therapy.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/cancer-reversion.mp3" length="13915994" type="audio/mpeg"/>
+      <guid isPermaLink="false">0b7da88d-4196-43ad-ab59-b02e4e8e4e84</guid>
+      <pubDate>Tue, 06 Oct 2026 08:55:52 -0700</pubDate>
+      <itunes:duration>14:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How to Research Anything, Part 2: Why It Works</title>
       <description>Part 2 opens with a quick recap of the method, then looks at why it might work and where it falls short. The knowledge graph adds outside theories, all flagged as interpretation: the guide's 'plateau of diminishing returns' mirrors ecology's rule for when a forager should leave a patch, 'useful a year from now?' estimates how fast a field's facts go stale, and a pre-set 'done' is Herbert Simon's satisficing. Then two tensions the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. We close with cross-domain synthesis and the author's compounding research playbook.</description>
