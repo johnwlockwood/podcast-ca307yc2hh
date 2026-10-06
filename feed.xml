@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:10:52 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:11:54 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>How to Research Anything, Part 2: Why It Works</title>
+      <description>Part 2 opens with a quick recap of the method, then looks at why it might work and where it falls short. The knowledge graph adds outside theories, all flagged as interpretation: the guide's 'plateau of diminishing returns' mirrors ecology's rule for when a forager should leave a patch, 'useful a year from now?' estimates how fast a field's facts go stale, and a pre-set 'done' is Herbert Simon's satisficing. Then two tensions the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. We close with cross-domain synthesis and the author's compounding research playbook.</description>
+      <itunes:summary>Part 2 opens with a quick recap of the method, then looks at why it might work and where it falls short. The knowledge graph adds outside theories, all flagged as interpretation: the guide's 'plateau of diminishing returns' mirrors ecology's rule for when a forager should leave a patch, 'useful a year from now?' estimates how fast a field's facts go stale, and a pre-set 'done' is Herbert Simon's satisficing. Then two tensions the guide leaves unaddressed: AI summaries may erode the outsider's fresh eyes, and expert calls aren't independent witnesses. We close with cross-domain synthesis and the author's compounding research playbook.</itunes:summary>
+      <enclosure url="https://johnwlockwood.github.io/podcast-ca307yc2hh/episodes/research-anything-part-2.mp3" length="12133816" type="audio/mpeg"/>
+      <guid isPermaLink="false">57afbd78-9bd4-4430-b0e8-3f0df5ee1022</guid>
+      <pubDate>Mon, 05 Oct 2026 22:11:53 -0700</pubDate>
+      <itunes:duration>12:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How to Research Anything, Part 1: The Method</title>
       <description>Part 1 of a two-parter on Polymath Investor's practitioner guide to independent research. We walk one made-up project through the whole method: scope a small question that passes the 'So what?' test, cap your time, choose sources that will still matter in a year, skim twenty and read three deeply, check key facts against three independent witnesses, keep one-idea notes with their sources, and decide what 'done' means before you start. The guide is one person's untested advice, and its paywalled section is known only from a teaser. Ends with a teaser for Part 2.</description>
