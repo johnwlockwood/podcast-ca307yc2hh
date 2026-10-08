@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:40:14 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:49:54 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Hiring in the Age of AI, Part 1: What Survived the Interview Lab</title>
+      <description>JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped — the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia — and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.</description>
+      <itunes:summary>JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped — the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia — and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/hiring-ai-part-1.mp3" length="12415102" type="audio/mpeg"/>
+      <guid isPermaLink="false">446134c8-d007-4e7b-a6a9-a038dcd583b5</guid>
+      <pubDate>Thu, 08 Oct 2026 00:49:53 -0700</pubDate>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Spotting Weakness in Seconds: Prison Eyes and Miami Doors</title>
       <description>A deep dive into a viral post claiming inmates can spot a 'weak man' in seconds: the 1981 and 2013 victim-selection studies behind it, thin-slicing and psychopathy, the leap to Miami's velvet ropes and the walled-garden roots of 'paradise', and how the post's wolves-and-sheep rhetoric doubles as its paywall pitch.</description>

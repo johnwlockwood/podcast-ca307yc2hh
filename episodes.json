@@ -115,5 +115,14 @@
     "length": 12731079,
     "duration": 796,
     "pub_date": "2026-10-08T00:40:11-07:00"
+  },
+  {
+    "guid": "446134c8-d007-4e7b-a6a9-a038dcd583b5",
+    "title": "Hiring in the Age of AI, Part 1: What Survived the Interview Lab",
+    "description": "JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped \u2014 the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia \u2014 and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.",
+    "file": "hiring-ai-part-1.mp3",
+    "length": 12415102,
+    "duration": 776,
+    "pub_date": "2026-10-08T00:49:53-07:00"
   }
 ]
