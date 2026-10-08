@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 23:29:37 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:29:40 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>References, Part 2: Marriage After a Second Date</title>
+      <description>Why Berson's reference method works and where it falls short: hiring as marriage after a second date, context-dependent performance, the hardwired-traits debate and selection research, legal limits on what references say, AI-summarized reference calls, two-way due diligence, and the method's roots in Graham Duncan's essay.</description>
+      <itunes:summary>Why Berson's reference method works and where it falls short: hiring as marriage after a second date, context-dependent performance, the hardwired-traits debate and selection research, legal limits on what references say, AI-summarized reference calls, two-way due diligence, and the method's roots in Graham Duncan's essay.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/references-part-2.mp3" length="13065865" type="audio/mpeg"/>
+      <guid isPermaLink="false">9aa5921c-a8cc-495a-8ace-1451118a9dc8</guid>
+      <pubDate>Wed, 07 Oct 2026 23:31:00 -0700</pubDate>
+      <itunes:duration>13:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>References, Part 1: The Police Sketch</title>
       <description>How Brett Berson's composite referencing works: references as a police sketch built from many witnesses, front-door and back-door calls, the whose-side-are-they-on check, story-and-comparison questions, the 12/5/3 call counts, running references early because of confirmation bias, and how to judge the person giving the reference.</description>
