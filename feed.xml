@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:02:55 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The New CFO, Part 1: From Scorekeeper to Builder</title>
+      <description>Seema Amble's a16z essay argues AI is rewriting the CFO job: from producing numbers to designing the company's operating system. We cover the four CFO eras, how cheap data turns the finance stack into a teammate, skills maintained like code, the zero-day close, agents and compute on the P&amp;L, and why controls are what make speed safe. Company examples are attributed, not verified.</description>
+      <itunes:summary>Seema Amble's a16z essay argues AI is rewriting the CFO job: from producing numbers to designing the company's operating system. We cover the four CFO eras, how cheap data turns the finance stack into a teammate, skills maintained like code, the zero-day close, agents and compute on the P&amp;L, and why controls are what make speed safe. Company examples are attributed, not verified.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/new-cfo-part-1.mp3" length="12832643" type="audio/mpeg"/>
+      <guid isPermaLink="false">305ef29c-e7f1-4d8c-b74a-3c809f7c22e5</guid>
+      <pubDate>Thu, 08 Oct 2026 17:02:52 -0700</pubDate>
+      <itunes:duration>13:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The New Manager, Part 2: The Seat You Took</title>
       <description>Things six to ten from Louise Deason's essay: absorb the mess from above and argue it upstairs, manage your own manager, give hard feedback early and kindly, keep receipts so you can fight for people in rooms they're not in, and know that management is no longer a safe seat. Plus the source map's own additions: emotional labor, psychological safety, the 'unbossing' squeeze on middle managers (including a reported Gartner forecast), and the algorithmic boss.</description>
