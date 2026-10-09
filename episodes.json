@@ -178,5 +178,14 @@
     "length": 11908954,
     "duration": 744,
     "pub_date": "2026-10-09T01:13:51-07:00"
+  },
+  {
+    "guid": "eaf5030d-89b3-428b-86d2-3278467f05b7",
+    "title": "The Software Foreman, Part 2: Watch Everything, Interrupt Rarely",
+    "description": "How Margheim's software foreman thinks: notice, hypothesize, check, then drop it or escalate with evidence. Plus persistent background agents, his 'noise beats silence' stance, the crying-wolf risk, and the ten-minute human review. Then four ideas the knowledge map adds on its own: control charts, Toyota's gemba walk, Herbert Simon on attention, and the METR study where developers felt faster but were slower.",
+    "file": "software-foreman-part-2.mp3",
+    "length": 12155550,
+    "duration": 760,
+    "pub_date": "2026-10-09T01:14:51-07:00"
   }
 ]

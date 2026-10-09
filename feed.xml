@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:13:56 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:14:00 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Software Foreman, Part 2: Watch Everything, Interrupt Rarely</title>
+      <description>How Margheim's software foreman thinks: notice, hypothesize, check, then drop it or escalate with evidence. Plus persistent background agents, his 'noise beats silence' stance, the crying-wolf risk, and the ten-minute human review. Then four ideas the knowledge map adds on its own: control charts, Toyota's gemba walk, Herbert Simon on attention, and the METR study where developers felt faster but were slower.</description>
+      <itunes:summary>How Margheim's software foreman thinks: notice, hypothesize, check, then drop it or escalate with evidence. Plus persistent background agents, his 'noise beats silence' stance, the crying-wolf risk, and the ten-minute human review. Then four ideas the knowledge map adds on its own: control charts, Toyota's gemba walk, Herbert Simon on attention, and the METR study where developers felt faster but were slower.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-foreman-part-2.mp3" length="12155550" type="audio/mpeg"/>
+      <guid isPermaLink="false">eaf5030d-89b3-428b-86d2-3278467f05b7</guid>
+      <pubDate>Fri, 09 Oct 2026 01:14:51 -0700</pubDate>
+      <itunes:duration>12:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Software Foreman, Part 1: Attention, Not Code</title>
       <description>Stephen Margheim argues AI in software is optimizing the wrong thing: his team's bottleneck isn't writing code, it's attention. We cover the software factory vs the software foreman, a bug that broke links only for unused accounts and was found by luck, Claude debugging it from a single message link, and the data lake and query-based watches that give attention a place to look.</description>
