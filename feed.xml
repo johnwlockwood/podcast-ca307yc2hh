@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:29:29 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:29:34 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>How Stories Create Alignment, Part 2: When the Story Goes Wrong</title>
+      <description>Beyond Hiten Shah's essay, entirely the knowledge map's additions: Shiller's narrative economics, category design and stories as replicators, then two failure modes Shah doesn't address, narrative lock-in and the map's own speculative idea of 'narrative debt', plus speculative takes on the story as lossy compression and AI agents that retell or counterfeit a founder's story.</description>
+      <itunes:summary>Beyond Hiten Shah's essay, entirely the knowledge map's additions: Shiller's narrative economics, category design and stories as replicators, then two failure modes Shah doesn't address, narrative lock-in and the map's own speculative idea of 'narrative debt', plus speculative takes on the story as lossy compression and AI agents that retell or counterfeit a founder's story.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/story-alignment-part-2.mp3" length="11639370" type="audio/mpeg"/>
+      <guid isPermaLink="false">af23062c-8ace-4022-b277-404f15affa50</guid>
+      <pubDate>Fri, 09 Oct 2026 16:30:26 -0700</pubDate>
+      <itunes:duration>12:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Stories Create Alignment, Part 1: The Story as Operating System</title>
       <description>Hiten Shah argues a company runs on one shared story: held in the same words by every team, owned and retold by the founder, and used as a yes-or-no filter for decisions. We cover his five ideas, then the research the knowledge map adds (not cited by Shah) to explain why it might work: Fisher's narrative paradigm, narrative transportation and neural coupling, shared mental models, Weick, Schein and Rumelt.</description>
