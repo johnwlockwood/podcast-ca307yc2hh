@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:50:57 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:29:29 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>How Stories Create Alignment, Part 1: The Story as Operating System</title>
+      <description>Hiten Shah argues a company runs on one shared story: held in the same words by every team, owned and retold by the founder, and used as a yes-or-no filter for decisions. We cover his five ideas, then the research the knowledge map adds (not cited by Shah) to explain why it might work: Fisher's narrative paradigm, narrative transportation and neural coupling, shared mental models, Weick, Schein and Rumelt.</description>
+      <itunes:summary>Hiten Shah argues a company runs on one shared story: held in the same words by every team, owned and retold by the founder, and used as a yes-or-no filter for decisions. We cover his five ideas, then the research the knowledge map adds (not cited by Shah) to explain why it might work: Fisher's narrative paradigm, narrative transportation and neural coupling, shared mental models, Weick, Schein and Rumelt.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/story-alignment-part-1.mp3" length="12310612" type="audio/mpeg"/>
+      <guid isPermaLink="false">c20e98f6-3106-422f-a66c-0f156144c239</guid>
+      <pubDate>Fri, 09 Oct 2026 16:29:26 -0700</pubDate>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The AI Value Creation Problem, Part 2: Proprietary Observation</title>
       <description>Why the people a payroll spreadsheet marks as savings may hold a company's real AI advantage: Box and Ramp data on AI leaders growing headcount, Gartner's rehiring forecast, 'proprietary observation beats proprietary data,' fieldwork, release quality, a vendor case study we treat as illustration only, and portfolio reuse, plus a fund-fee incentive the knowledge map adds.</description>
