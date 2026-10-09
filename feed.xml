@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:02:55 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:03:01 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The New CFO, Part 2: The Finance Engineer</title>
+      <description>The people side of Seema Amble's 'You Need a New CFO': the finance engineer, vibecoding, teams shrinking from about 5% of headcount toward 2%, why senior experts like the head of tax gain most from AI, and 'walk me through your prompt sequence.' Plus three ideas the knowledge map adds on top of the essay, including a speculative worry about the career ladder.</description>
+      <itunes:summary>The people side of Seema Amble's 'You Need a New CFO': the finance engineer, vibecoding, teams shrinking from about 5% of headcount toward 2%, why senior experts like the head of tax gain most from AI, and 'walk me through your prompt sequence.' Plus three ideas the knowledge map adds on top of the essay, including a speculative worry about the career ladder.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/new-cfo-part-2.mp3" length="12356170" type="audio/mpeg"/>
+      <guid isPermaLink="false">1e39c943-c932-429a-8f1e-6fd53f0434f6</guid>
+      <pubDate>Thu, 08 Oct 2026 17:03:52 -0700</pubDate>
+      <itunes:duration>12:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The New CFO, Part 1: From Scorekeeper to Builder</title>
       <description>Seema Amble's a16z essay argues AI is rewriting the CFO job: from producing numbers to designing the company's operating system. We cover the four CFO eras, how cheap data turns the finance stack into a teammate, skills maintained like code, the zero-day close, agents and compute on the P&amp;L, and why controls are what make speed safe. Company examples are attributed, not verified.</description>
