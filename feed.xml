@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 07:38:28 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:38:33 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Night AI Emptied Math's Open Problems, Part 2: Grieving and Thrilled</title>
+      <description>The human side of mathematicians' reactions to the AI math release: PhD students and postdocs facing scooped theses, Tasmin Chu's grant and security worries, Cyril Houdayer's genuine thrill, Terence Tao on losing the first encounter with a problem, the unpaid work of reading and explaining the proofs, Danny Calegari's zippers, and a thread of Dolly Parton, Solaris and E. E. Cummings.</description>
+      <itunes:summary>The human side of mathematicians' reactions to the AI math release: PhD students and postdocs facing scooped theses, Tasmin Chu's grant and security worries, Cyril Houdayer's genuine thrill, Terence Tao on losing the first encounter with a problem, the unpaid work of reading and explaining the proofs, Danny Calegari's zippers, and a thread of Dolly Parton, Solaris and E. E. Cummings.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/math-open-problems-part-2.mp3" length="12175194" type="audio/mpeg"/>
+      <guid isPermaLink="false">4358c3fc-0614-46b7-bfc5-0153ebc557b6</guid>
+      <pubDate>Fri, 09 Oct 2026 07:39:24 -0700</pubDate>
+      <itunes:duration>12:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Night AI Emptied Math's Open Problems, Part 1: Scooped</title>
       <description>A Proofs and Prompts post collects 100+ mathematicians' reactions to OpenAI's reported October 6 release of hundreds of claimed solutions to open problems. Part 1 covers the event, proofs arriving faster than anyone can read them, withdrawals and partial formal checks, Peter Scholze's cryptography worry, a declined advisory recommendation, and three hard-hit voices: Wilton, Zaremsky and Duminil-Copin. Counts and verification status are as reported in the post, not independently confirmed.</description>
