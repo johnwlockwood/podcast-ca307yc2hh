@@ -169,5 +169,14 @@
     "length": 12356170,
     "duration": 772,
     "pub_date": "2026-10-08T17:03:52-07:00"
+  },
+  {
+    "guid": "c6048833-ad58-4f96-9471-5616286c979d",
+    "title": "The Software Foreman, Part 1: Attention, Not Code",
+    "description": "Stephen Margheim argues AI in software is optimizing the wrong thing: his team's bottleneck isn't writing code, it's attention. We cover the software factory vs the software foreman, a bug that broke links only for unused accounts and was found by luck, Claude debugging it from a single message link, and the data lake and query-based watches that give attention a place to look.",
+    "file": "software-foreman-part-1.mp3",
+    "length": 11908954,
+    "duration": 744,
+    "pub_date": "2026-10-09T01:13:51-07:00"
   }
 ]

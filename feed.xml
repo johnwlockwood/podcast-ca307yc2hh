@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:03:01 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:13:56 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Software Foreman, Part 1: Attention, Not Code</title>
+      <description>Stephen Margheim argues AI in software is optimizing the wrong thing: his team's bottleneck isn't writing code, it's attention. We cover the software factory vs the software foreman, a bug that broke links only for unused accounts and was found by luck, Claude debugging it from a single message link, and the data lake and query-based watches that give attention a place to look.</description>
+      <itunes:summary>Stephen Margheim argues AI in software is optimizing the wrong thing: his team's bottleneck isn't writing code, it's attention. We cover the software factory vs the software foreman, a bug that broke links only for unused accounts and was found by luck, Claude debugging it from a single message link, and the data lake and query-based watches that give attention a place to look.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-foreman-part-1.mp3" length="11908954" type="audio/mpeg"/>
+      <guid isPermaLink="false">c6048833-ad58-4f96-9471-5616286c979d</guid>
+      <pubDate>Fri, 09 Oct 2026 01:13:51 -0700</pubDate>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The New CFO, Part 2: The Finance Engineer</title>
       <description>The people side of Seema Amble's 'You Need a New CFO': the finance engineer, vibecoding, teams shrinking from about 5% of headcount toward 2%, why senior experts like the head of tax gain most from AI, and 'walk me through your prompt sequence.' Plus three ideas the knowledge map adds on top of the essay, including a speculative worry about the career ladder.</description>
