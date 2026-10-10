@@ -286,5 +286,14 @@
     "length": 11141581,
     "duration": 696,
     "pub_date": "2026-10-10T10:16:01-07:00"
+  },
+  {
+    "guid": "6c17ca44-c7a6-43ce-800d-909890804d92",
+    "title": "Models as Insiders, Part 2: Who Watches the Watcher",
+    "description": "What if the thing checking an AI model is another black box? Nadella's nested-black-box warning, his call for chain-of-thought transparency, and his model-diversity rule, set against the map's counterweights: research showing explanations aren't always faithful, the 1986 Knight and Leveson experiment where independent software versions failed together, AI control research, interpretability, the ironies of automation, and the standards and liability layers where containment gets enforced.",
+    "file": "models-as-insiders-part-2.mp3",
+    "length": 11195497,
+    "duration": 700,
+    "pub_date": "2026-10-10T10:17:01-07:00"
   }
 ]

@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 10:16:03 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:16:08 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Models as Insiders, Part 2: Who Watches the Watcher</title>
+      <description>What if the thing checking an AI model is another black box? Nadella's nested-black-box warning, his call for chain-of-thought transparency, and his model-diversity rule, set against the map's counterweights: research showing explanations aren't always faithful, the 1986 Knight and Leveson experiment where independent software versions failed together, AI control research, interpretability, the ironies of automation, and the standards and liability layers where containment gets enforced.</description>
+      <itunes:summary>What if the thing checking an AI model is another black box? Nadella's nested-black-box warning, his call for chain-of-thought transparency, and his model-diversity rule, set against the map's counterweights: research showing explanations aren't always faithful, the 1986 Knight and Leveson experiment where independent software versions failed together, AI control research, interpretability, the ironies of automation, and the standards and liability layers where containment gets enforced.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/models-as-insiders-part-2.mp3" length="11195497" type="audio/mpeg"/>
+      <guid isPermaLink="false">6c17ca44-c7a6-43ce-800d-909890804d92</guid>
+      <pubDate>Sat, 10 Oct 2026 10:17:01 -0700</pubDate>
+      <itunes:duration>11:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Models as Insiders, Part 1: The Insider Frame</title>
       <description>Satya Nadella argues frontier AI models should be governed as privileged insiders: not because they are malicious, but because anything that capable with that much access can err or be compromised. We cover his split between the supply of intelligence and authority over it, containment-first engineering, and his seven observability principles. Then we flag the map's own background additions: insider threat programs, Saltzer and Schroeder, Ken Thompson's Trusting Trust, and the principal-agent problem. Source: Nadella's X article 'Models as Insider Risks in the Super Intelligence Era,' via an IntuiBloom knowledge graph.</description>
