@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 22:05:10 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:05:14 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Too Many Interests, Part 2: The Money and the Risk Nobody Names</title>
+      <description>Koe's money machine: a $19 micro product, a $500-$1000 four-call service, angle mining, an application form that replaces the sales page, a four-step DM ladder, and AI that reprices common know-how. Then Eden, Koe's own platform, 'soft rich' economics, and the map's critique: a single point of failure across one social platform, one vendor and one AI provider. Prices and income figures are Koe's claims, not verified.</description>
+      <itunes:summary>Koe's money machine: a $19 micro product, a $500-$1000 four-call service, angle mining, an application form that replaces the sales page, a four-step DM ladder, and AI that reprices common know-how. Then Eden, Koe's own platform, 'soft rich' economics, and the map's critique: a single point of failure across one social platform, one vendor and one AI provider. Prices and income figures are Koe's claims, not verified.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/too-many-interests-part-2.mp3" length="13192924" type="audio/mpeg"/>
+      <guid isPermaLink="false">a7704e00-aec1-4ee6-a0df-814ab10925af</guid>
+      <pubDate>Fri, 09 Oct 2026 22:06:07 -0700</pubDate>
+      <itunes:duration>13:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Too Many Interests, Part 1: The System</title>
       <description>Dan Koe argues that having many interests is an asset: one transformation, Point A to Point B, ties them into a single brand, planned on a paper content map. Attract broadly, monetize narrowly, and you only need to be one step ahead. We flag the map's own additions: Herbert Simon's attention economics, a speculative link to Scott Adams' talent stack, and its reading of Koe's school story. Source: Koe's X article 'Full Course: How To Turn Your Interests Into a Profitable Lifestyle Business,' via an IntuiBloom knowledge graph. Koe promotes his own platform, Eden.</description>
