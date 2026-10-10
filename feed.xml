@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:56:55 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:57:00 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Stop Reading the Code, Part 2: The Human's New Job</title>
+      <description>If engineers no longer understand the code, what is their job? Automation bias, the map's addition, explains Sridharan's failure modes: plausible first answers, reviews that only confirm, and repros that match symptoms but not signals. Then her proposals: designing verification checks before code exists, humans as policy setters rather than 'meat proxies', and counting human interventions per bug as the honest measure of an agent-native software factory.</description>
+      <itunes:summary>If engineers no longer understand the code, what is their job? Automation bias, the map's addition, explains Sridharan's failure modes: plausible first answers, reviews that only confirm, and repros that match symptoms but not signals. Then her proposals: designing verification checks before code exists, humans as policy setters rather than 'meat proxies', and counting human interventions per bug as the honest measure of an agent-native software factory.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/stop-reading-the-code-part-2.mp3" length="10371282" type="audio/mpeg"/>
+      <guid isPermaLink="false">5f276b3c-0f5b-43d6-9196-428a4caadac9</guid>
+      <pubDate>Sat, 10 Oct 2026 13:57:53 -0700</pubDate>
+      <itunes:duration>10:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Stop Reading the Code, Part 1: Signals, Not Stories</title>
       <description>A second, exploratory map of Cindy Sridharan's essay 'How to effectively debug when you no longer understand the code' reaches beyond her method. We recap her debugging loop, then follow the map outward: why dashboards that help humans can destroy signals for AI agents, metastable failures and bugs that need two causes at once, and the map's most speculative link, Duhem-Quine underdetermination from the philosophy of science. Companion to our 'Code Lies, Facts Don't' episodes, via an IntuiBloom knowledge graph.</description>

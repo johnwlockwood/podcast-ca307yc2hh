@@ -322,5 +322,14 @@
     "length": 11547419,
     "duration": 722,
     "pub_date": "2026-10-10T13:56:53-07:00"
+  },
+  {
+    "guid": "5f276b3c-0f5b-43d6-9196-428a4caadac9",
+    "title": "Stop Reading the Code, Part 2: The Human's New Job",
+    "description": "If engineers no longer understand the code, what is their job? Automation bias, the map's addition, explains Sridharan's failure modes: plausible first answers, reviews that only confirm, and repros that match symptoms but not signals. Then her proposals: designing verification checks before code exists, humans as policy setters rather than 'meat proxies', and counting human interventions per bug as the honest measure of an agent-native software factory.",
+    "file": "stop-reading-the-code-part-2.mp3",
+    "length": 10371282,
+    "duration": 648,
+    "pub_date": "2026-10-10T13:57:53-07:00"
   }
 ]
