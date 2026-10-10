@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:29:34 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:55:39 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Mining the Sky, Part 1: The Jar and the Asteroid</title>
+      <description>Devon Eriksen's viral post, replying to Elon Musk, argues Earth's valuable metals sank to the core and the ones we mine came from asteroids. We unpack his jar thought experiment and the real science under it (planetary differentiation, Goldschmidt's element classes, the late veneer), then the knowledge map's main pushback: 'every mine is an asteroid strike' is right about where the atoms came from but mostly wrong about how ore deposits form. Plus why the post's combative tone matters.</description>
+      <itunes:summary>Devon Eriksen's viral post, replying to Elon Musk, argues Earth's valuable metals sank to the core and the ones we mine came from asteroids. We unpack his jar thought experiment and the real science under it (planetary differentiation, Goldschmidt's element classes, the late veneer), then the knowledge map's main pushback: 'every mine is an asteroid strike' is right about where the atoms came from but mostly wrong about how ore deposits form. Plus why the post's combative tone matters.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/mining-the-sky-part-1.mp3" length="11490994" type="audio/mpeg"/>
+      <guid isPermaLink="false">c096db37-7f71-4837-8ee8-99ddbea9360b</guid>
+      <pubDate>Fri, 09 Oct 2026 19:55:37 -0700</pubDate>
+      <itunes:duration>11:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Stories Create Alignment, Part 2: When the Story Goes Wrong</title>
       <description>Beyond Hiten Shah's essay, entirely the knowledge map's additions: Shiller's narrative economics, category design and stories as replicators, then two failure modes Shah doesn't address, narrative lock-in and the map's own speculative idea of 'narrative debt', plus speculative takes on the story as lossy compression and AI agents that retell or counterfeit a founder's story.</description>
