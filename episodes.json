@@ -295,5 +295,14 @@
     "length": 11195497,
     "duration": 700,
     "pub_date": "2026-10-10T10:17:01-07:00"
+  },
+  {
+    "guid": "ea44838c-9ef0-4f2a-9297-dc7fdd33228a",
+    "title": "Code Lies, Facts Don't, Part 1: Three Bugs",
+    "description": "Cindy Sridharan argues code is an unreliable narrator: it tells you what can happen, not what did. Three real bugs she debugged with an AI agent: a latency spike where a plausible certificate theory passed review but was wrong, and the real clue was 5 versus 400 DNS addresses; a memory leak that took three wrong answers and turned out to have two causes; and a hang found four layers down, in one line of a 30 MB kernel dump. Source: her Medium essay 'How to effectively debug when you no longer understand the code,' via an IntuiBloom knowledge graph.",
+    "file": "code-lies-facts-dont-part-1.mp3",
+    "length": 10702305,
+    "duration": 669,
+    "pub_date": "2026-10-10T10:50:48-07:00"
   }
 ]
