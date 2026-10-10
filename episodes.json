@@ -313,5 +313,14 @@
     "length": 11632683,
     "duration": 727,
     "pub_date": "2026-10-10T10:51:48-07:00"
+  },
+  {
+    "guid": "5f48ac14-a1ee-4050-aa4d-10636aef1536",
+    "title": "Stop Reading the Code, Part 1: Signals, Not Stories",
+    "description": "A second, exploratory map of Cindy Sridharan's essay 'How to effectively debug when you no longer understand the code' reaches beyond her method. We recap her debugging loop, then follow the map outward: why dashboards that help humans can destroy signals for AI agents, metastable failures and bugs that need two causes at once, and the map's most speculative link, Duhem-Quine underdetermination from the philosophy of science. Companion to our 'Code Lies, Facts Don't' episodes, via an IntuiBloom knowledge graph.",
+    "file": "stop-reading-the-code-part-1.mp3",
+    "length": 11547419,
+    "duration": 722,
+    "pub_date": "2026-10-10T13:56:53-07:00"
   }
 ]
