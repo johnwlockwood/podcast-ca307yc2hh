@@ -304,5 +304,14 @@
     "length": 10702305,
     "duration": 669,
     "pub_date": "2026-10-10T10:50:48-07:00"
+  },
+  {
+    "guid": "9f5e9cf2-d2ba-4850-8430-4ffdd3aec49d",
+    "title": "Code Lies, Facts Don't, Part 2: The Method",
+    "description": "Sridharan's method for debugging code you can't read: facts as fixed constraints and hypotheses that must satisfy every one, controls and 'sad paths', a hypotheses-by-fact table that ranks clues, five tactics for repairing broken theories, and descending layers for new signals. Why AI-made repros and same-model reviews are weaker safeguards than they look, why demanding citations works, and her 'agent-native software factory' that counts every human intervention as a gap.",
+    "file": "code-lies-facts-dont-part-2.mp3",
+    "length": 11632683,
+    "duration": 727,
+    "pub_date": "2026-10-10T10:51:48-07:00"
   }
 ]
