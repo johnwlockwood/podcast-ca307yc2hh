@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 22:05:14 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:16:03 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Models as Insiders, Part 1: The Insider Frame</title>
+      <description>Satya Nadella argues frontier AI models should be governed as privileged insiders: not because they are malicious, but because anything that capable with that much access can err or be compromised. We cover his split between the supply of intelligence and authority over it, containment-first engineering, and his seven observability principles. Then we flag the map's own background additions: insider threat programs, Saltzer and Schroeder, Ken Thompson's Trusting Trust, and the principal-agent problem. Source: Nadella's X article 'Models as Insider Risks in the Super Intelligence Era,' via an IntuiBloom knowledge graph.</description>
+      <itunes:summary>Satya Nadella argues frontier AI models should be governed as privileged insiders: not because they are malicious, but because anything that capable with that much access can err or be compromised. We cover his split between the supply of intelligence and authority over it, containment-first engineering, and his seven observability principles. Then we flag the map's own background additions: insider threat programs, Saltzer and Schroeder, Ken Thompson's Trusting Trust, and the principal-agent problem. Source: Nadella's X article 'Models as Insider Risks in the Super Intelligence Era,' via an IntuiBloom knowledge graph.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/models-as-insiders-part-1.mp3" length="11141581" type="audio/mpeg"/>
+      <guid isPermaLink="false">344697cd-a6f8-407a-889d-410d85e3df08</guid>
+      <pubDate>Sat, 10 Oct 2026 10:16:01 -0700</pubDate>
+      <itunes:duration>11:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Too Many Interests, Part 2: The Money and the Risk Nobody Names</title>
       <description>Koe's money machine: a $19 micro product, a $500-$1000 four-call service, angle mining, an application form that replaces the sales page, a four-step DM ladder, and AI that reprices common know-how. Then Eden, Koe's own platform, 'soft rich' economics, and the map's critique: a single point of failure across one social platform, one vendor and one AI provider. Prices and income figures are Koe's claims, not verified.</description>

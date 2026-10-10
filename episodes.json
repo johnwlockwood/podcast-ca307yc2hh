@@ -277,5 +277,14 @@
     "length": 13192924,
     "duration": 825,
     "pub_date": "2026-10-09T22:06:07-07:00"
+  },
+  {
+    "guid": "344697cd-a6f8-407a-889d-410d85e3df08",
+    "title": "Models as Insiders, Part 1: The Insider Frame",
+    "description": "Satya Nadella argues frontier AI models should be governed as privileged insiders: not because they are malicious, but because anything that capable with that much access can err or be compromised. We cover his split between the supply of intelligence and authority over it, containment-first engineering, and his seven observability principles. Then we flag the map's own background additions: insider threat programs, Saltzer and Schroeder, Ken Thompson's Trusting Trust, and the principal-agent problem. Source: Nadella's X article 'Models as Insider Risks in the Super Intelligence Era,' via an IntuiBloom knowledge graph.",
+    "file": "models-as-insiders-part-1.mp3",
+    "length": 11141581,
+    "duration": 696,
+    "pub_date": "2026-10-10T10:16:01-07:00"
   }
 ]
