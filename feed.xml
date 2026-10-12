@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 11:24:19 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:24:24 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>What You Really Want Isn't Happiness, Part 2: Palaces, Pines, and Machines</title>
+      <description>A kind dictator's palace or a messy free life? Fost's theory meets Berlin, Hayek and Rawls, invasive species, a thousand-year-old bristlecone pine, and AI. Then the critics get their turn on measurement, the gap between "is" and "ought", and falsifiability. Made from an IntuiBloom graph.</description>
+      <itunes:summary>A kind dictator's palace or a messy free life? Fost's theory meets Berlin, Hayek and Rawls, invasive species, a thousand-year-old bristlecone pine, and AI. Then the critics get their turn on measurement, the gap between "is" and "ought", and falsifiability. Made from an IntuiBloom graph.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/adaptive-complexity-part-2.mp3" length="9544558" type="audio/mpeg"/>
+      <guid isPermaLink="false">c069ee77-d17e-4567-976e-b31f059e13ee</guid>
+      <pubDate>Mon, 12 Oct 2026 11:25:21 -0700</pubDate>
+      <itunes:duration>9:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What You Really Want Isn't Happiness, Part 1: Not Too Bored, Not Too Stressed</title>
       <description>Steve Yegge called it a favorite essay of the past three years or so. Joshua Fost argues that happiness, freedom and justice are all shadows of one deeper value: adaptive complexity. We unpack what "complex" really means, why the interesting stuff lives at the edge of chaos, and how flow fits Fost's theory. Made from an IntuiBloom graph.</description>
