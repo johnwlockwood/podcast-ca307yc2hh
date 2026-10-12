@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:06:03 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:06:08 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Pixels Over Software: The Thesis, the Frontier, the Blind Spots</title>
+      <description>Rob Phillips resurfaced his essay with a sharp framing: software will eventually be generated on the fly, and pixels are all you need. We go through the IntuiBloom graph on the essay's thesis, where the frontier is, and the blind spots it leaves open. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/l0y1s8y-2quuLDLVuckEuJMyt7p8BESkfPKAEndohsM=</description>
+      <itunes:summary>Rob Phillips resurfaced his essay with a sharp framing: software will eventually be generated on the fly, and pixels are all you need. We go through the IntuiBloom graph on the essay's thesis, where the frontier is, and the blind spots it leaves open. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/l0y1s8y-2quuLDLVuckEuJMyt7p8BESkfPKAEndohsM=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/pixels-over-software.mp3" length="10218309" type="audio/mpeg"/>
+      <guid isPermaLink="false">2b8048ed-ff89-4a00-ab6c-b048cd82451a</guid>
+      <pubDate>Mon, 12 Oct 2026 15:07:05 -0700</pubDate>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Every Kubernetes Concept Is a Scar: Inside the One Hidden Loop</title>
       <description>Akhilesh Mishra's thread argues that every Kubernetes feature exists because of a specific production failure, and that underneath them all sits one loop: watch the actual state, compare it with the desired state, reconcile. We go through the IntuiBloom graph from pods to controllers and talk about what that story explains well and what it skips. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/MqRCNLk_tHsIbY0IfqLYc8lY2SfSKIyLZIfy6EFSPwg=</description>
