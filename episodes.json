@@ -119,7 +119,7 @@
   {
     "guid": "446134c8-d007-4e7b-a6a9-a038dcd583b5",
     "title": "Hiring in the Age of AI, Part 1: What Survived the Interview Lab",
-    "description": "JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped \u2014 the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia \u2014 and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.",
+    "description": "JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped — the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia — and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.",
     "file": "hiring-ai-part-1.mp3",
     "length": 12415102,
     "duration": 776,
@@ -128,7 +128,7 @@
   {
     "guid": "0a988c73-d54c-4143-873b-61a29db35907",
     "title": "Hiring in the Age of AI, Part 2: Judging Depth You Can't Check",
-    "description": "How do you judge a candidate whose field you don't know? Pruett's rules of thumb: deep versus shallow simplicity, speed under pressure, a walk-through of a problem from 18+ months ago, and telling people who recognize the underlying problem from people who match on surface labels \u2014 backed by the 1981 Chi, Feltovich and Glaser physics-sorting study, and the idea that agent 'memory' is really cache invalidation. Then the pushback: trading standardization for interviewer confidence, and a speculative worry about where junior engineers get their reps.",
+    "description": "How do you judge a candidate whose field you don't know? Pruett's rules of thumb: deep versus shallow simplicity, speed under pressure, a walk-through of a problem from 18+ months ago, and telling people who recognize the underlying problem from people who match on surface labels — backed by the 1981 Chi, Feltovich and Glaser physics-sorting study, and the idea that agent 'memory' is really cache invalidation. Then the pushback: trading standardization for interviewer confidence, and a speculative worry about where junior engineers get their reps.",
     "file": "hiring-ai-part-2.mp3",
     "length": 12583958,
     "duration": 786,
