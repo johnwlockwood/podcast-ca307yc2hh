@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 11:24:24 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:24:29 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>You Didn't Choose Your Computer. You Just Got Used to It</title>
+      <description>Tom Ballard got AirDrop working between a Linux laptop and an iPhone, then started asking what else had been accepted for no reason. We cover Omarchy and Familiar, sour grapes psychology, software built for an audience of one, the HyperCard lineage, and the catches: maintenance, unpaid open-source labor, choice overload, and interoperability law. Made from an IntuiBloom graph.</description>
+      <itunes:summary>Tom Ballard got AirDrop working between a Linux laptop and an iPhone, then started asking what else had been accepted for no reason. We cover Omarchy and Familiar, sour grapes psychology, software built for an audience of one, the HyperCard lineage, and the catches: maintenance, unpaid open-source labor, choice overload, and interoperability law. Made from an IntuiBloom graph.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/make-the-computer-you-actually-want.mp3" length="10222488" type="audio/mpeg"/>
+      <guid isPermaLink="false">2aa8477e-0857-4919-b349-e1ea5599786a</guid>
+      <pubDate>Mon, 12 Oct 2026 11:26:26 -0700</pubDate>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>What You Really Want Isn't Happiness, Part 2: Palaces, Pines, and Machines</title>
       <description>A kind dictator's palace or a messy free life? Fost's theory meets Berlin, Hayek and Rawls, invasive species, a thousand-year-old bristlecone pine, and AI. Then the critics get their turn on measurement, the gap between "is" and "ought", and falsifiability. Made from an IntuiBloom graph.</description>
