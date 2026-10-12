@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:06:08 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:13:40 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Friction Is the Point: Mapping Shawn Smucker's Please Use AI</title>
+      <description>Shawn Smucker's "Please Use AI" is a satirical prose poem that keeps telling you to use AI for a meal plan, a last camping trip, a wedding toast, your art, and finally your own funeral song. Then it drops the irony for a quiet scene with a sleeping daughter. We walk through the IntuiBloom graph's layers: the poem's ironic machinery, the AI practices it mocks, and the human counter-account it defends, from friendship as care and friction as meaning to griefbots and Ted Chiang's argument about AI art. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ZOgUzu3cN1PivxvlS9CVGWU8ZkeDRF7saeGLqahWn_s=</description>
+      <itunes:summary>Shawn Smucker's "Please Use AI" is a satirical prose poem that keeps telling you to use AI for a meal plan, a last camping trip, a wedding toast, your art, and finally your own funeral song. Then it drops the irony for a quiet scene with a sleeping daughter. We walk through the IntuiBloom graph's layers: the poem's ironic machinery, the AI practices it mocks, and the human counter-account it defends, from friendship as care and friction as meaning to griefbots and Ted Chiang's argument about AI art. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ZOgUzu3cN1PivxvlS9CVGWU8ZkeDRF7saeGLqahWn_s=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/friction-is-the-point-please-use-ai.mp3" length="9268287" type="audio/mpeg"/>
+      <guid isPermaLink="false">af99bc43-7807-4083-8e6c-0b1f12bf55c8</guid>
+      <pubDate>Mon, 12 Oct 2026 16:13:37 -0700</pubDate>
+      <itunes:duration>9:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Pixels Over Software: The Thesis, the Frontier, the Blind Spots</title>
       <description>Rob Phillips resurfaced his essay with a sharp framing: software will eventually be generated on the fly, and pixels are all you need. We go through the IntuiBloom graph on the essay's thesis, where the frontier is, and the blind spots it leaves open. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/l0y1s8y-2quuLDLVuckEuJMyt7p8BESkfPKAEndohsM=</description>
