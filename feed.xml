@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:44:17 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:44:21 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>AI's Real Money Is Buried Four Layers Below ChatGPT, Part 2</title>
+      <description>We climb Anish Moonka's AI stack layer by layer: power-hungry data centres, chip bottlenecks at Nvidia, TSMC and ASML, debt-funded cloud buildouts, cash-burning model labs, and data moats at the app layer. Then the bubble debate, DeepSeek, and what the IntuiBloom graph adds: the Jevons paradox, water, heat and land constraints, and how a viral investing essay can shape the market it describes. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WjQULoHFtcQEQGii0CV2KwDoiMMO8-yS_d9cbFelC5A=</description>
+      <itunes:summary>We climb Anish Moonka's AI stack layer by layer: power-hungry data centres, chip bottlenecks at Nvidia, TSMC and ASML, debt-funded cloud buildouts, cash-burning model labs, and data moats at the app layer. Then the bubble debate, DeepSeek, and what the IntuiBloom graph adds: the Jevons paradox, water, heat and land constraints, and how a viral investing essay can shape the market it describes. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WjQULoHFtcQEQGii0CV2KwDoiMMO8-yS_d9cbFelC5A=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/ai-real-money-four-layers-below-chatgpt-part-2.mp3" length="7493215" type="audio/mpeg"/>
+      <guid isPermaLink="false">6aa51670-4359-49c5-86a5-76dbd1a110f9</guid>
+      <pubDate>Mon, 12 Oct 2026 16:45:19 -0700</pubDate>
+      <itunes:duration>7:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AI's Real Money Is Buried Four Layers Below ChatGPT, Part 1</title>
       <description>Anish Moonka argues AI isn't a chatbot but a five-layer stack: energy, chips, cloud, models and applications, with most of the money in the layers nobody talks about. Using the IntuiBloom graph, we cover the giant 2026 capex from Amazon, Microsoft, Google and Meta, OpenAI's growth alongside its cash burn, the circular "revenue flows up, capital flows down" loop, and the electricity analogy behind "Infrastructure Gravity". Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WjQULoHFtcQEQGii0CV2KwDoiMMO8-yS_d9cbFelC5A=</description>
