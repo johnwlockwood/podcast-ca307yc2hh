@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:57:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:24:19 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>What You Really Want Isn't Happiness, Part 1: Not Too Bored, Not Too Stressed</title>
+      <description>Steve Yegge called it a favorite essay of the past three years or so. Joshua Fost argues that happiness, freedom and justice are all shadows of one deeper value: adaptive complexity. We unpack what "complex" really means, why the interesting stuff lives at the edge of chaos, and how flow fits Fost's theory. Made from an IntuiBloom graph.</description>
+      <itunes:summary>Steve Yegge called it a favorite essay of the past three years or so. Joshua Fost argues that happiness, freedom and justice are all shadows of one deeper value: adaptive complexity. We unpack what "complex" really means, why the interesting stuff lives at the edge of chaos, and how flow fits Fost's theory. Made from an IntuiBloom graph.</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/adaptive-complexity-part-1.mp3" length="10777120" type="audio/mpeg"/>
+      <guid isPermaLink="false">3cce612e-d4bc-488d-8e98-82a81ee4268b</guid>
+      <pubDate>Mon, 12 Oct 2026 11:24:16 -0700</pubDate>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Stop Reading the Code, Part 2: The Human's New Job</title>
       <description>If engineers no longer understand the code, what is their job? Automation bias, the map's addition, explains Sridharan's failure modes: plausible first answers, reviews that only confirm, and repros that match symptoms but not signals. Then her proposals: designing verification checks before code exists, humans as policy setters rather than 'meat proxies', and counting human interventions per bug as the honest measure of an agent-native software factory.</description>
