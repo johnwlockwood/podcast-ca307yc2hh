@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:13:40 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:44:17 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>AI's Real Money Is Buried Four Layers Below ChatGPT, Part 1</title>
+      <description>Anish Moonka argues AI isn't a chatbot but a five-layer stack: energy, chips, cloud, models and applications, with most of the money in the layers nobody talks about. Using the IntuiBloom graph, we cover the giant 2026 capex from Amazon, Microsoft, Google and Meta, OpenAI's growth alongside its cash burn, the circular "revenue flows up, capital flows down" loop, and the electricity analogy behind "Infrastructure Gravity". Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WjQULoHFtcQEQGii0CV2KwDoiMMO8-yS_d9cbFelC5A=</description>
+      <itunes:summary>Anish Moonka argues AI isn't a chatbot but a five-layer stack: energy, chips, cloud, models and applications, with most of the money in the layers nobody talks about. Using the IntuiBloom graph, we cover the giant 2026 capex from Amazon, Microsoft, Google and Meta, OpenAI's growth alongside its cash burn, the circular "revenue flows up, capital flows down" loop, and the electricity analogy behind "Infrastructure Gravity". Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WjQULoHFtcQEQGii0CV2KwDoiMMO8-yS_d9cbFelC5A=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/ai-real-money-four-layers-below-chatgpt-part-1.mp3" length="8057460" type="audio/mpeg"/>
+      <guid isPermaLink="false">9ae15421-6c89-44e4-8c05-5a272231453c</guid>
+      <pubDate>Mon, 12 Oct 2026 16:44:15 -0700</pubDate>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friction Is the Point: Mapping Shawn Smucker's Please Use AI</title>
       <description>Shawn Smucker's "Please Use AI" is a satirical prose poem that keeps telling you to use AI for a meal plan, a last camping trip, a wedding toast, your art, and finally your own funeral song. Then it drops the irony for a quiet scene with a sleeping daughter. We walk through the IntuiBloom graph's layers: the poem's ironic machinery, the AI practices it mocks, and the human counter-account it defends, from friendship as care and friction as meaning to griefbots and Ted Chiang's argument about AI art. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ZOgUzu3cN1PivxvlS9CVGWU8ZkeDRF7saeGLqahWn_s=</description>
