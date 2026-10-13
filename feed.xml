@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 23:23:26 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:41:15 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Attention: One Trick, All of AI, Maybe All of Mind (Deep Dive)</title>
+      <description>A longer, slower walk through Natalie Wolchover's Quanta column on attention. How an intern's 2014 translation fix, working with Kyunghyun Cho and Yoshua Bengio, beat the one-suitcase bottleneck; what queries, keys and values actually compute, worked through one ambiguous "it"; how the transformer scaled it; Llion Jones's case that next-word prediction is "AI-complete" and his doubts about efficiency; and why Wolchover thinks human thought reaches beyond language. We flag what the IntuiBloom graph adds: the grounding objection, the many meanings of "attention", global workspace theory and more. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/5h9MFZU_uHNUYXozKXgY1mPcstLdNJ-i3Ds1En23Kvg=</description>
+      <itunes:summary>A longer, slower walk through Natalie Wolchover's Quanta column on attention. How an intern's 2014 translation fix, working with Kyunghyun Cho and Yoshua Bengio, beat the one-suitcase bottleneck; what queries, keys and values actually compute, worked through one ambiguous "it"; how the transformer scaled it; Llion Jones's case that next-word prediction is "AI-complete" and his doubts about efficiency; and why Wolchover thinks human thought reaches beyond language. We flag what the IntuiBloom graph adds: the grounding objection, the many meanings of "attention", global workspace theory and more. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/5h9MFZU_uHNUYXozKXgY1mPcstLdNJ-i3Ds1En23Kvg=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/attention-one-trick-deep-dive.mp3" length="26728114" type="audio/mpeg"/>
+      <guid isPermaLink="false">69f20340-c58e-485a-80df-0f6672a6d8be</guid>
+      <pubDate>Tue, 13 Oct 2026 15:41:12 -0700</pubDate>
+      <itunes:duration>27:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Attention: One Trick, All of AI, Maybe All of Mind</title>
       <description>Natalie Wolchover's Quanta column traces how a 2014 translation trick by intern Dzmitry Bahdanau, working with Kyunghyun Cho and Yoshua Bengio, became the transformer and today's large language models. Using the IntuiBloom graph, we explain the queries, keys and values behind attention through a single ambiguous "it", Llion Jones's argument that next-word prediction is "AI-complete", why human thought seems to reach beyond language, the efficiency gap Jones now sees, and how the word "attention" itself can mislead. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/5h9MFZU_uHNUYXozKXgY1mPcstLdNJ-i3Ds1En23Kvg=</description>

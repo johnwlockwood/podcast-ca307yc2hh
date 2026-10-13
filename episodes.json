@@ -439,5 +439,14 @@
     "length": 9570890,
     "duration": 598,
     "pub_date": "2026-10-12T23:23:23-07:00"
+  },
+  {
+    "guid": "69f20340-c58e-485a-80df-0f6672a6d8be",
+    "title": "Attention: One Trick, All of AI, Maybe All of Mind (Deep Dive)",
+    "description": "A longer, slower walk through Natalie Wolchover's Quanta column on attention. How an intern's 2014 translation fix, working with Kyunghyun Cho and Yoshua Bengio, beat the one-suitcase bottleneck; what queries, keys and values actually compute, worked through one ambiguous \"it\"; how the transformer scaled it; Llion Jones's case that next-word prediction is \"AI-complete\" and his doubts about efficiency; and why Wolchover thinks human thought reaches beyond language. We flag what the IntuiBloom graph adds: the grounding objection, the many meanings of \"attention\", global workspace theory and more. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/5h9MFZU_uHNUYXozKXgY1mPcstLdNJ-i3Ds1En23Kvg=",
+    "file": "attention-one-trick-deep-dive.mp3",
+    "length": 26728114,
+    "duration": 1670,
+    "pub_date": "2026-10-13T15:41:12-07:00"
   }
 ]
