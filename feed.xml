@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:38:19 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:38:22 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Forget Fine-Tuning: Agents That Rewrite Their Own Scaffold, Part 2</title>
+      <description>Does harness learning work? On 21 unseen Reasoning Gym puzzle families the average revision score rises from 0.32 to 0.62, and the 4B proposer beats its 35B teacher on average; a HotpotQA-trained proposer keeps improving on unseen multi-hop QA benchmarks over ten rounds. We cover what the learned harnesses look like, the paper's limits, and where the IntuiBloom graph goes further: reward hacking, compute cost, history, and continually learning agents. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/X3lkfCRNMZd0swji3SiUM9WbQCtzzlQx1ek7tXjIl-U=</description>
+      <itunes:summary>Does harness learning work? On 21 unseen Reasoning Gym puzzle families the average revision score rises from 0.32 to 0.62, and the 4B proposer beats its 35B teacher on average; a HotpotQA-trained proposer keeps improving on unseen multi-hop QA benchmarks over ten rounds. We cover what the learned harnesses look like, the paper's limits, and where the IntuiBloom graph goes further: reward hacking, compute cost, history, and continually learning agents. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/X3lkfCRNMZd0swji3SiUM9WbQCtzzlQx1ek7tXjIl-U=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/forget-fine-tuning-agents-rewrite-scaffold-part-2.mp3" length="6259817" type="audio/mpeg"/>
+      <guid isPermaLink="false">435bc5e2-eec4-42a1-9b16-b681ffda930e</guid>
+      <pubDate>Mon, 12 Oct 2026 19:39:21 -0700</pubDate>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Forget Fine-Tuning: Agents That Rewrite Their Own Scaffold, Part 1</title>
       <description>A new paper proposes harness learning: a trained "proposer" model reads how an AI agent's run went and edits its harness, the code that decides what the model sees, which tools it uses and how answers flow, while the model's own weights stay frozen. Using the IntuiBloom graph, we unpack the proposer-solver loop, meta-learning over programs, harness edits as gradient steps, and the paper's formulas in plain words. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/X3lkfCRNMZd0swji3SiUM9WbQCtzzlQx1ek7tXjIl-U=</description>
