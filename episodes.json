@@ -412,5 +412,14 @@
     "length": 7493215,
     "duration": 468,
     "pub_date": "2026-10-12T16:45:19-07:00"
+  },
+  {
+    "guid": "a06d3b18-80f7-48df-8eec-9f12fcf4d25c",
+    "title": "Forget Fine-Tuning: Agents That Rewrite Their Own Scaffold, Part 1",
+    "description": "A new paper proposes harness learning: a trained \"proposer\" model reads how an AI agent's run went and edits its harness, the code that decides what the model sees, which tools it uses and how answers flow, while the model's own weights stay frozen. Using the IntuiBloom graph, we unpack the proposer-solver loop, meta-learning over programs, harness edits as gradient steps, and the paper's formulas in plain words. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/X3lkfCRNMZd0swji3SiUM9WbQCtzzlQx1ek7tXjIl-U=",
+    "file": "forget-fine-tuning-agents-rewrite-scaffold-part-1.mp3",
+    "length": 6758025,
+    "duration": 422,
+    "pub_date": "2026-10-12T19:38:17-07:00"
   }
 ]
