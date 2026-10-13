@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:41:15 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:49:38 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Buoyancy: Why Some AI Products Rise With Every New Model</title>
+      <description>Rajiv Ayyangar's essay 'Buoyancy' asks why the same model release lifts some AI products and sinks others. We cover plumbing vs scaffolding, why every workaround is a short bet on model progress, prompt sediment, the 94% vs 91% classifier choice, the thin-wrapper objection and 'Sherlocking', the hull that keeps you from being dissolved, what it means for careers, the greed-or-dread test, and the footnote that tides also go out. We also flag what the IntuiBloom graph adds, including Taleb's antifragility. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/93LC_FB0dTmTAE2cEz7JP0feQLz6SEiu8lQj2v7S7mY=</description>
+      <itunes:summary>Rajiv Ayyangar's essay 'Buoyancy' asks why the same model release lifts some AI products and sinks others. We cover plumbing vs scaffolding, why every workaround is a short bet on model progress, prompt sediment, the 94% vs 91% classifier choice, the thin-wrapper objection and 'Sherlocking', the hull that keeps you from being dissolved, what it means for careers, the greed-or-dread test, and the footnote that tides also go out. We also flag what the IntuiBloom graph adds, including Taleb's antifragility. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/93LC_FB0dTmTAE2cEz7JP0feQLz6SEiu8lQj2v7S7mY=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/buoyancy-rise-with-every-model.mp3" length="15928049" type="audio/mpeg"/>
+      <guid isPermaLink="false">7b58a051-bcae-4e0a-86cb-025fcd09efcb</guid>
+      <pubDate>Tue, 13 Oct 2026 15:49:35 -0700</pubDate>
+      <itunes:duration>16:35</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Attention: One Trick, All of AI, Maybe All of Mind (Deep Dive)</title>
       <description>A longer, slower walk through Natalie Wolchover's Quanta column on attention. How an intern's 2014 translation fix, working with Kyunghyun Cho and Yoshua Bengio, beat the one-suitcase bottleneck; what queries, keys and values actually compute, worked through one ambiguous "it"; how the transformer scaled it; Llion Jones's case that next-word prediction is "AI-complete" and his doubts about efficiency; and why Wolchover thinks human thought reaches beyond language. We flag what the IntuiBloom graph adds: the grounding objection, the many meanings of "attention", global workspace theory and more. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/5h9MFZU_uHNUYXozKXgY1mPcstLdNJ-i3Ds1En23Kvg=</description>
