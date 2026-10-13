@@ -430,5 +430,14 @@
     "length": 6259817,
     "duration": 391,
     "pub_date": "2026-10-12T19:39:21-07:00"
+  },
+  {
+    "guid": "ab551d69-b687-4bf6-86b2-b59bcba20323",
+    "title": "Attention: One Trick, All of AI, Maybe All of Mind",
+    "description": "Natalie Wolchover's Quanta column traces how a 2014 translation trick by intern Dzmitry Bahdanau, working with Kyunghyun Cho and Yoshua Bengio, became the transformer and today's large language models. Using the IntuiBloom graph, we explain the queries, keys and values behind attention through a single ambiguous \"it\", Llion Jones's argument that next-word prediction is \"AI-complete\", why human thought seems to reach beyond language, the efficiency gap Jones now sees, and how the word \"attention\" itself can mislead. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/5h9MFZU_uHNUYXozKXgY1mPcstLdNJ-i3Ds1En23Kvg=",
+    "file": "attention-one-trick-all-of-ai.mp3",
+    "length": 9570890,
+    "duration": 598,
+    "pub_date": "2026-10-12T23:23:23-07:00"
   }
 ]
