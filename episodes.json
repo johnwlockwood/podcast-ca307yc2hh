@@ -457,5 +457,14 @@
     "length": 15928049,
     "duration": 995,
     "pub_date": "2026-10-13T15:49:35-07:00"
+  },
+  {
+    "guid": "b6d9fedd-e313-4b59-990d-199460894361",
+    "title": "38 Lessons From 10 AI Products \u2014 And Half Expire in a Year",
+    "description": "PostHog shipped ten AI products and published 38 lessons, ending with a warning that half will be wrong within a year. We work out which half to keep: build AI only for real jobs, why PostHog's agent interface beat its own AI assistant five to one, context as the moat, skills, agents that run code, reliability over capability, tracing, small evals, the $6.67 cost per run, customers rebuilding you, prompt injection, and interfaces built for review. We flag the connections the IntuiBloom graph adds as its own hypotheses. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/6fVf1-1Z_za93OoYmDjhfH1tBQMu3k2KAXHOL5-xX-s=",
+    "file": "posthog-38-lessons-half-expire.mp3",
+    "length": 24614077,
+    "duration": 1538,
+    "pub_date": "2026-10-13T18:10:04-07:00"
   }
 ]
