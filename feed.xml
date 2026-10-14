@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 18:10:07 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:29:48 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>From Mic Check to Launch: Your Podcast, Step by Step</title>
+      <description>How do you actually start a podcast? Following an IntuiBloom graph on the topic, we walk the path from deciding who the show is for and what it promises, through format, publishing schedule and episode planning, to recording, gear, editing, hosting and RSS, and getting into listening apps. Then come promotion, what listener numbers can and can't tell you, and keeping a show going without burning out. A hypothetical bike-repair show serves as a running example. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/t8yM7qpA7ta_j064uhddvPC78gDcaqeig0OuKoMtN5w=</description>
+      <itunes:summary>How do you actually start a podcast? Following an IntuiBloom graph on the topic, we walk the path from deciding who the show is for and what it promises, through format, publishing schedule and episode planning, to recording, gear, editing, hosting and RSS, and getting into listening apps. Then come promotion, what listener numbers can and can't tell you, and keeping a show going without burning out. A hypothetical bike-repair show serves as a running example. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/t8yM7qpA7ta_j064uhddvPC78gDcaqeig0OuKoMtN5w=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/mic-check-to-launch.mp3" length="18885946" type="audio/mpeg"/>
+      <guid isPermaLink="false">a318b610-4f9c-49eb-8aa2-69e2c3fe2897</guid>
+      <pubDate>Tue, 13 Oct 2026 20:29:44 -0700</pubDate>
+      <itunes:duration>19:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>38 Lessons From 10 AI Products — And Half Expire in a Year</title>
       <description>PostHog shipped ten AI products and published 38 lessons, ending with a warning that half will be wrong within a year. We work out which half to keep: build AI only for real jobs, why PostHog's agent interface beat its own AI assistant five to one, context as the moat, skills, agents that run code, reliability over capability, tracing, small evals, the $6.67 cost per run, customers rebuilding you, prompt injection, and interfaces built for review. We flag the connections the IntuiBloom graph adds as its own hypotheses. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/6fVf1-1Z_za93OoYmDjhfH1tBQMu3k2KAXHOL5-xX-s=</description>
