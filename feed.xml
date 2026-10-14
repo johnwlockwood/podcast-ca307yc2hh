@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 20:59:17 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:45:48 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Beyond Faster: How AI Can Expand What You Dare to Do</title>
+      <description>Felix Rieseberg, who works on Claude, wrote a tutorial on being more ambitious with AI models. Following an IntuiBloom graph of the essay, we walk through its four kinds of ambition: speed, altitude (aiming at the outcome, like replacing a quarterly deck), depth (expert instruments, raw data, an outside judge) and range (assembling a cross-field crew, methods not costumes). We cover the data and tools these need, then the psychology of why we hold back: self-efficacy, hard goals, Dantzig's "homework", the four-minute mile and permission to fail. We also flag the graph's own note on human oversight. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/w83OCxfKX2rKBzDbRideuYNmseXTqgFFeh2ihIiIMHo=</description>
+      <itunes:summary>Felix Rieseberg, who works on Claude, wrote a tutorial on being more ambitious with AI models. Following an IntuiBloom graph of the essay, we walk through its four kinds of ambition: speed, altitude (aiming at the outcome, like replacing a quarterly deck), depth (expert instruments, raw data, an outside judge) and range (assembling a cross-field crew, methods not costumes). We cover the data and tools these need, then the psychology of why we hold back: self-efficacy, hard goals, Dantzig's "homework", the four-minute mile and permission to fail. We also flag the graph's own note on human oversight. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/w83OCxfKX2rKBzDbRideuYNmseXTqgFFeh2ihIiIMHo=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/beyond-faster-ai-ambition.mp3" length="24051086" type="audio/mpeg"/>
+      <guid isPermaLink="false">34efab1c-701d-489d-8a70-aabf99122026</guid>
+      <pubDate>Wed, 14 Oct 2026 13:45:44 -0700</pubDate>
+      <itunes:duration>25:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When AI Makes Output Free, Outcomes Are the Only Currency</title>
       <description>AI can make features, tickets and code almost free, so what should teams count? We dig into the output-to-outcome operating model credited to Mik Kersten and the ideas behind it: "Project to Product", the Flow Framework and flow efficiency, and the DORA metrics. We also cover the AI productivity paradox, Goodhart's law and how to guard against it, and why funding decides whether outcome thinking survives. Near the end we explore the IntuiBloom graph's own speculative ideas: a verification bottleneck and a "digital twin" of the organization. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/vuQe_O_kPjNNHykIepvhUU4kgI6OtV9KOi7Hi-lJTus=</description>
