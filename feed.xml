@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:17:37 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:19:09 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 0: Foundations to Accelerate Outcomes in the AI Era</title>
+      <description>Episode 1 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI." Chapter 0, "Foundations," makes the case that AI is making knowledge output nearly free, so the bottleneck moves from producing work to the organization itself. We cover the productivity paradox, the Theory of Constraints (and the car-plant paint shop), Carlota Perez's model of technological revolutions and Kersten's six ages, the "three million Shakespeare plays" problem, the risk of wealth piling up in a few AI giants, and Cognition's weekly, throw-away-most-of-it outcome loop. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/TO5aZETujPcRBQxlTNc7KQAwXCMg12yV5vgyOM0uOl4=</description>
+      <itunes:summary>Episode 1 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI." Chapter 0, "Foundations," makes the case that AI is making knowledge output nearly free, so the bottleneck moves from producing work to the organization itself. We cover the productivity paradox, the Theory of Constraints (and the car-plant paint shop), Carlota Perez's model of technological revolutions and Kersten's six ages, the "three million Shakespeare plays" problem, the risk of wealth piling up in a few AI giants, and Cognition's weekly, throw-away-most-of-it outcome loop. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/TO5aZETujPcRBQxlTNc7KQAwXCMg12yV5vgyOM0uOl4=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch0-foundations.mp3" length="18717509" type="audio/mpeg"/>
+      <guid isPermaLink="false">ae49f5d0-1d9b-42ec-8ed4-d283881eb94c</guid>
+      <pubDate>Thu, 15 Oct 2026 11:19:06 -0700</pubDate>
+      <itunes:duration>19:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Hidden Order Inside Neural Networks</title>
       <description>Are neural networks hopelessly tangled, or already clean? We dive into Nick Cammarata's Goodfire essay, which argues that neurons that seem to do several unrelated jobs often do one deeper thing. We cover the cat-and-car neuron that turned out to detect a V shape, new audits of language-model neurons, neurons as gates, the case for scaling ordinary investigation with automated scientists, and the essay's own speculative safety implications. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/pnqc18bsHamJDPNWDQa6RJkI9D3LdA8U9rqGwNVTJ5c=</description>
