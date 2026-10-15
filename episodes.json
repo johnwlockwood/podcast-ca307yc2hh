@@ -529,5 +529,14 @@
     "length": 19608598,
     "duration": 1226,
     "pub_date": "2026-10-15T15:38:35-07:00"
+  },
+  {
+    "guid": "446ea36e-3b64-4d34-8463-4153dd31d72c",
+    "title": "Neural Networks Are Already Clean: Inside the Interpretability Reversal",
+    "description": "When a neuron seems to respond to unrelated things, is the network a tangled knot, or have we just not figured it out yet? We dig into Nick Cammarata's Goodfire essay 'Neural Networks Are Already Clean,' which argues superposition should be the last explanation, not the first. Along the way: the cat-and-car neuron that was really a V detector, layers squeezed from 480 neurons to 10 that got coarser instead of tangled, the Santa answer that lived on neurons' negative side, a neuron that tracks Colorado, attribution graphs up to trillion-parameter models, and the essay's speculative case for spotting deception hiding in plain sight. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/xcecd2NLj5r5gMJRl2BoZrp0nFUiPWnufzKmfjJst2o=",
+    "file": "neural-networks-already-clean-interpretability-reversal.mp3",
+    "length": 25316666,
+    "duration": 1582,
+    "pub_date": "2026-10-15T15:53:44-07:00"
   }
 ]

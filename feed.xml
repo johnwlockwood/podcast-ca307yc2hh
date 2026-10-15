@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:38:44 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:53:47 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Neural Networks Are Already Clean: Inside the Interpretability Reversal</title>
+      <description>When a neuron seems to respond to unrelated things, is the network a tangled knot, or have we just not figured it out yet? We dig into Nick Cammarata's Goodfire essay 'Neural Networks Are Already Clean,' which argues superposition should be the last explanation, not the first. Along the way: the cat-and-car neuron that was really a V detector, layers squeezed from 480 neurons to 10 that got coarser instead of tangled, the Santa answer that lived on neurons' negative side, a neuron that tracks Colorado, attribution graphs up to trillion-parameter models, and the essay's speculative case for spotting deception hiding in plain sight. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/xcecd2NLj5r5gMJRl2BoZrp0nFUiPWnufzKmfjJst2o=</description>
+      <itunes:summary>When a neuron seems to respond to unrelated things, is the network a tangled knot, or have we just not figured it out yet? We dig into Nick Cammarata's Goodfire essay 'Neural Networks Are Already Clean,' which argues superposition should be the last explanation, not the first. Along the way: the cat-and-car neuron that was really a V detector, layers squeezed from 480 neurons to 10 that got coarser instead of tangled, the Santa answer that lived on neurons' negative side, a neuron that tracks Colorado, attribution graphs up to trillion-parameter models, and the essay's speculative case for spotting deception hiding in plain sight. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/xcecd2NLj5r5gMJRl2BoZrp0nFUiPWnufzKmfjJst2o=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/neural-networks-already-clean-interpretability-reversal.mp3" length="25316666" type="audio/mpeg"/>
+      <guid isPermaLink="false">446ea36e-3b64-4d34-8463-4153dd31d72c</guid>
+      <pubDate>Thu, 15 Oct 2026 15:53:44 -0700</pubDate>
+      <itunes:duration>26:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 0: When AI Removes the Bottleneck: From Outputs to Outcomes</title>
       <description>Episode 1 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 0, "Foundations," comes after the Preface, Prompt and Introduction and before Part I's three models: the Product Operating Model, the Outcome Loop and the Outcome Tree. Kersten argues that AI is making knowledge output nearly free, which moves the bottleneck from producing work to the organization itself. We cover the productivity paradox, the Theory of Constraints (and the car-plant paint shop), the earlier shift to software as a service, Carlota Perez's model of technological revolutions and her "golden age," the "three million Shakespeare plays" problem, and Kersten's account of Cognition's weekly outcome loop, where it throws away much of its code. We also cover the risk he warns about: AI's gains piling up in a few giants. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/I8l7ns_g5OdvCAV1MWTNSnFsGyeJuJEj5a3JcMzyHIU=</description>
