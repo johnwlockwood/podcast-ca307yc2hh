@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:06:45 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:55:26 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Code Is Cheap, Attention Isn't: Inside Agentic Code Review</title>
+      <description>When AI agents write code faster than any human can read it, review becomes the bottleneck. This deep dive walks through a new pattern-language paper by Davis, Gill, Hendrickson, Jones, Ma, Shoup and Wickett (Enterprise Technology Leadership Journal, Fall 2026). It argues that human review survives because of trust, compliance and accountability, and should give way to a layered verification stack: cheap automated checks, review depth set by risk, and decision records you can audit. We cover nine patterns, from small incremental changes and context engineering to adversarial AI review and teams of specialist review agents. Then come three real deployments: Block's agent-written changes that nobody felt they owned, Cloudflare's 131,246 review runs averaging about 1.2 findings each, and DryRun Security's tenant-isolation lesson. We finish at the speculative edge, the "dark software factory," where humans become curators of knowledge rather than reviewers. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/-7fKowO77Pq1ki0O8bGTMLGlAlxzEBirlKneSD3KLGI=</description>
+      <itunes:summary>When AI agents write code faster than any human can read it, review becomes the bottleneck. This deep dive walks through a new pattern-language paper by Davis, Gill, Hendrickson, Jones, Ma, Shoup and Wickett (Enterprise Technology Leadership Journal, Fall 2026). It argues that human review survives because of trust, compliance and accountability, and should give way to a layered verification stack: cheap automated checks, review depth set by risk, and decision records you can audit. We cover nine patterns, from small incremental changes and context engineering to adversarial AI review and teams of specialist review agents. Then come three real deployments: Block's agent-written changes that nobody felt they owned, Cloudflare's 131,246 review runs averaging about 1.2 findings each, and DryRun Security's tenant-isolation lesson. We finish at the speculative edge, the "dark software factory," where humans become curators of knowledge rather than reviewers. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/-7fKowO77Pq1ki0O8bGTMLGlAlxzEBirlKneSD3KLGI=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/code-is-cheap-attention-isnt-agentic-code-review.mp3" length="27979902" type="audio/mpeg"/>
+      <guid isPermaLink="false">7ff206e2-706d-4f5e-9956-c0beb885f5a9</guid>
+      <pubDate>Thu, 15 Oct 2026 07:55:23 -0700</pubDate>
+      <itunes:duration>29:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When AI agents outrun the org chart, the bottleneck moves</title>
       <description>When AI agents finish the backlog faster than a company can plan, where does the work get stuck? Mik Kersten's keynote "Output to Outcome: When Agents Outrun the Org Chart" argues the bottleneck moves from output to the operating model itself. We cover the theory of constraints, a pattern across technological revolutions, and the parable of Peerless Auto putting an electric motor on an old drive shaft. We also go through Kersten's figures: teams use only about 8% of delivery time, TUI Group cut idea-to-customer time from about 200 days to 15, and Cognition's Devin reportedly throws away far more code than it ships. Then the proposed fix (the outcome loop, the outcome tree, AI-native SAFe and human ownership of every outcome) and the strongest objections the IntuiBloom graph raises. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/pJLbU0rwtwdwRWtUW4yekxSRJY_hBBQ8u0cH2cizHLw=</description>

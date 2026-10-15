@@ -502,5 +502,14 @@
     "length": 24977283,
     "duration": 1561,
     "pub_date": "2026-10-14T18:06:42-07:00"
+  },
+  {
+    "guid": "7ff206e2-706d-4f5e-9956-c0beb885f5a9",
+    "title": "Code Is Cheap, Attention Isn't: Inside Agentic Code Review",
+    "description": "When AI agents write code faster than any human can read it, review becomes the bottleneck. This deep dive walks through a new pattern-language paper by Davis, Gill, Hendrickson, Jones, Ma, Shoup and Wickett (Enterprise Technology Leadership Journal, Fall 2026). It argues that human review survives because of trust, compliance and accountability, and should give way to a layered verification stack: cheap automated checks, review depth set by risk, and decision records you can audit. We cover nine patterns, from small incremental changes and context engineering to adversarial AI review and teams of specialist review agents. Then come three real deployments: Block's agent-written changes that nobody felt they owned, Cloudflare's 131,246 review runs averaging about 1.2 findings each, and DryRun Security's tenant-isolation lesson. We finish at the speculative edge, the \"dark software factory,\" where humans become curators of knowledge rather than reviewers. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/-7fKowO77Pq1ki0O8bGTMLGlAlxzEBirlKneSD3KLGI=",
+    "file": "code-is-cheap-attention-isnt-agentic-code-review.mp3",
+    "length": 27979902,
+    "duration": 1749,
+    "pub_date": "2026-10-15T07:55:23-07:00"
   }
 ]
