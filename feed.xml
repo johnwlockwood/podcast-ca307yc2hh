@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:55:26 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:17:37 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Hidden Order Inside Neural Networks</title>
+      <description>Are neural networks hopelessly tangled, or already clean? We dive into Nick Cammarata's Goodfire essay, which argues that neurons that seem to do several unrelated jobs often do one deeper thing. We cover the cat-and-car neuron that turned out to detect a V shape, new audits of language-model neurons, neurons as gates, the case for scaling ordinary investigation with automated scientists, and the essay's own speculative safety implications. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/pnqc18bsHamJDPNWDQa6RJkI9D3LdA8U9rqGwNVTJ5c=</description>
+      <itunes:summary>Are neural networks hopelessly tangled, or already clean? We dive into Nick Cammarata's Goodfire essay, which argues that neurons that seem to do several unrelated jobs often do one deeper thing. We cover the cat-and-car neuron that turned out to detect a V shape, new audits of language-model neurons, neurons as gates, the case for scaling ordinary investigation with automated scientists, and the essay's own speculative safety implications. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/pnqc18bsHamJDPNWDQa6RJkI9D3LdA8U9rqGwNVTJ5c=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/hidden-order-neural-networks.mp3" length="24684294" type="audio/mpeg"/>
+      <guid isPermaLink="false">caa60e04-03d0-47ee-9161-44e7d7b25dd7</guid>
+      <pubDate>Thu, 15 Oct 2026 11:17:35 -0700</pubDate>
+      <itunes:duration>25:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Code Is Cheap, Attention Isn't: Inside Agentic Code Review</title>
       <description>When AI agents write code faster than any human can read it, review becomes the bottleneck. This deep dive walks through a new pattern-language paper by Davis, Gill, Hendrickson, Jones, Ma, Shoup and Wickett (Enterprise Technology Leadership Journal, Fall 2026). It argues that human review survives because of trust, compliance and accountability, and should give way to a layered verification stack: cheap automated checks, review depth set by risk, and decision records you can audit. We cover nine patterns, from small incremental changes and context engineering to adversarial AI review and teams of specialist review agents. Then come three real deployments: Block's agent-written changes that nobody felt they owned, Cloudflare's 131,246 review runs averaging about 1.2 findings each, and DryRun Security's tenant-isolation lesson. We finish at the speculative edge, the "dark software factory," where humans become curators of knowledge rather than reviewers. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/-7fKowO77Pq1ki0O8bGTMLGlAlxzEBirlKneSD3KLGI=</description>

@@ -511,5 +511,14 @@
     "length": 27979902,
     "duration": 1749,
     "pub_date": "2026-10-15T07:55:23-07:00"
+  },
+  {
+    "guid": "caa60e04-03d0-47ee-9161-44e7d7b25dd7",
+    "title": "The Hidden Order Inside Neural Networks",
+    "description": "Are neural networks hopelessly tangled, or already clean? We dive into Nick Cammarata's Goodfire essay, which argues that neurons that seem to do several unrelated jobs often do one deeper thing. We cover the cat-and-car neuron that turned out to detect a V shape, new audits of language-model neurons, neurons as gates, the case for scaling ordinary investigation with automated scientists, and the essay's own speculative safety implications. Explore the interactive IntuiBloom knowledge graph: https://www.IntuiBloom.com/share/pnqc18bsHamJDPNWDQa6RJkI9D3LdA8U9rqGwNVTJ5c=",
+    "file": "hidden-order-neural-networks.mp3",
+    "length": 24684294,
+    "duration": 1543,
+    "pub_date": "2026-10-15T11:17:35-07:00"
   }
 ]
