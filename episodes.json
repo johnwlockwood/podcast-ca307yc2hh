@@ -493,5 +493,14 @@
     "length": 24051086,
     "duration": 1503,
     "pub_date": "2026-10-14T13:45:44-07:00"
+  },
+  {
+    "guid": "aec86829-32b1-41a0-86cb-f8f56a8f9127",
+    "title": "When AI agents outrun the org chart, the bottleneck moves",
+    "description": "When AI agents finish the backlog faster than a company can plan, where does the work get stuck? Mik Kersten's keynote \"Output to Outcome: When Agents Outrun the Org Chart\" argues the bottleneck moves from output to the operating model itself. We cover the theory of constraints, a pattern across technological revolutions, and the parable of Peerless Auto putting an electric motor on an old drive shaft. We also go through Kersten's figures: teams use only about 8% of delivery time, TUI Group cut idea-to-customer time from about 200 days to 15, and Cognition's Devin reportedly throws away far more code than it ships. Then the proposed fix (the outcome loop, the outcome tree, AI-native SAFe and human ownership of every outcome) and the strongest objections the IntuiBloom graph raises. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/pJLbU0rwtwdwRWtUW4yekxSRJY_hBBQ8u0cH2cizHLw=",
+    "file": "when-ai-agents-outrun-the-org-chart-the-bottleneck-moves.mp3",
+    "length": 24977283,
+    "duration": 1561,
+    "pub_date": "2026-10-14T18:06:42-07:00"
   }
 ]
