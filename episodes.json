@@ -119,7 +119,7 @@
   {
     "guid": "446134c8-d007-4e7b-a6a9-a038dcd583b5",
     "title": "Hiring in the Age of AI, Part 1: What Survived the Interview Lab",
-    "description": "JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped \u2014 the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia \u2014 and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.",
+    "description": "JD Pruett's 20/10 philosophy: when coding agents eat the middle 70% of a project, hire for the first 20% (framing, architecture, taste) and the last 10% (shipping). We walk through the interview formats he tried and dropped — the agent-assisted long onsite, the AI systems design round, rule-of-thumb trivia — and the two that survived: unassisted code review with 'what if' changes, and an onsite that opens with a market presentation and then three shrinking timed problems, all judged by whether interviewers can give a confident thumbs up or down.",
     "file": "hiring-ai-part-1.mp3",
     "length": 12415102,
     "duration": 776,
@@ -128,7 +128,7 @@
   {
     "guid": "0a988c73-d54c-4143-873b-61a29db35907",
     "title": "Hiring in the Age of AI, Part 2: Judging Depth You Can't Check",
-    "description": "How do you judge a candidate whose field you don't know? Pruett's rules of thumb: deep versus shallow simplicity, speed under pressure, a walk-through of a problem from 18+ months ago, and telling people who recognize the underlying problem from people who match on surface labels \u2014 backed by the 1981 Chi, Feltovich and Glaser physics-sorting study, and the idea that agent 'memory' is really cache invalidation. Then the pushback: trading standardization for interviewer confidence, and a speculative worry about where junior engineers get their reps.",
+    "description": "How do you judge a candidate whose field you don't know? Pruett's rules of thumb: deep versus shallow simplicity, speed under pressure, a walk-through of a problem from 18+ months ago, and telling people who recognize the underlying problem from people who match on surface labels — backed by the 1981 Chi, Feltovich and Glaser physics-sorting study, and the idea that agent 'memory' is really cache invalidation. Then the pushback: trading standardization for interviewer confidence, and a speculative worry about where junior engineers get their reps.",
     "file": "hiring-ai-part-2.mp3",
     "length": 12583958,
     "duration": 786,
@@ -460,7 +460,7 @@
   },
   {
     "guid": "b6d9fedd-e313-4b59-990d-199460894361",
-    "title": "38 Lessons From 10 AI Products \u2014 And Half Expire in a Year",
+    "title": "38 Lessons From 10 AI Products — And Half Expire in a Year",
     "description": "PostHog shipped ten AI products and published 38 lessons, ending with a warning that half will be wrong within a year. We work out which half to keep: build AI only for real jobs, why PostHog's agent interface beat its own AI assistant five to one, context as the moat, skills, agents that run code, reliability over capability, tracing, small evals, the $6.67 cost per run, customers rebuilding you, prompt injection, and interfaces built for review. We flag the connections the IntuiBloom graph adds as its own hypotheses. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/6fVf1-1Z_za93OoYmDjhfH1tBQMu3k2KAXHOL5-xX-s=",
     "file": "posthog-38-lessons-half-expire.mp3",
     "length": 24614077,
@@ -560,7 +560,7 @@
   {
     "guid": "2b607c78-e588-48e1-8563-c93ef61aef24",
     "title": "Output to Outcome, Ch 2: The Outcome Loop: Constraints, AI Surplus, and the Next Bottleneck",
-    "description": "Episode 3 of our book-club series on Mik Kersten's \"Output to Outcome: An Operating Model for the Age of AI\" (IT Revolution, 2026). Chapter 2, \"The Outcome Loop,\" sits in the middle of Part I, \"Outcome Management.\" It builds on Chapter 1's Product Operating Model, sets up Chapter 3's Outcome Tree, and is the core model that the book's seven shifts in Part II build on. Kersten defines the loop as the feedback system that connects inputs (strategy and budget) to outputs (activities and artifacts) to outcomes (employee, customer and business) and back again. We cover production elasticity and Amazon, the lineage from outcome-based healthcare and Jobs to Be Done to OKRs, Kersten's own path from PhD research to Tasktop, key results versus KPIs, the TeenWellness worked example, why the loop is a hypothesis test, broken telemetry and the \"counting procedures\" trap, applying the Theory of Constraints, and how the VS Code team's bottleneck moved from delivery to onboarding to code review as AI took over more of the output. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/gCUMm1v5ojOoiE32udczXYQRC4iQinUtoSavvxJygLM=",
+    "description": "Episode 3 of our book-club series on Mik Kersten's \"Output to Outcome: An Operating Model for the Age of AI\" (IT Revolution, 2026). Chapter 2, \"The Outcome Loop,\" sits in the middle of Part I, \"Outcome Management.\" It builds on Chapter 1's Product Operating Model, sets up Chapter 3's Outcome Tree, and is the core model that the book's seven shifts in Part II build on. Kersten defines the loop as the feedback system that connects inputs (strategy and budget) to outputs (activities and artifacts) to outcomes (employee, customer and business) and back again. We cover production elasticity and Amazon, the lineage from outcome-based healthcare and Jobs to Be Done to OKRs, Kersten's own path from PhD research to Tasktop, key results versus KPIs, the TeenWellness worked example, why the loop is a hypothesis test, broken telemetry and the \"counting procedures\" trap, applying the Theory of Constraints, and how the VS Code team's bottleneck moved from delivery to onboarding to code review as AI took over more of the output. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph and its subgraph: https://www.intuibloom.com/share/44MjhAtNsiB9AQFhMBKuD_lzt1x43tCLS55t9rPUJOs%3D/8eaebb35-c4ab-4ad3-beb0-bd949d43d5fd",
     "file": "output-to-outcome-ch2-the-outcome-loop.mp3",
     "length": 24670501,
     "duration": 1542,
