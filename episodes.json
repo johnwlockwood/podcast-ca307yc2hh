@@ -556,5 +556,14 @@
     "length": 20340444,
     "duration": 1271,
     "pub_date": "2026-10-15T19:55:22-07:00"
+  },
+  {
+    "guid": "2b607c78-e588-48e1-8563-c93ef61aef24",
+    "title": "Output to Outcome, Ch 2: The Outcome Loop: Constraints, AI Surplus, and the Next Bottleneck",
+    "description": "Episode 3 of our book-club series on Mik Kersten's \"Output to Outcome: An Operating Model for the Age of AI\" (IT Revolution, 2026). Chapter 2, \"The Outcome Loop,\" sits in the middle of Part I, \"Outcome Management.\" It builds on Chapter 1's Product Operating Model, sets up Chapter 3's Outcome Tree, and is the core model that the book's seven shifts in Part II build on. Kersten defines the loop as the feedback system that connects inputs (strategy and budget) to outputs (activities and artifacts) to outcomes (employee, customer and business) and back again. We cover production elasticity and Amazon, the lineage from outcome-based healthcare and Jobs to Be Done to OKRs, Kersten's own path from PhD research to Tasktop, key results versus KPIs, the TeenWellness worked example, why the loop is a hypothesis test, broken telemetry and the \"counting procedures\" trap, applying the Theory of Constraints, and how the VS Code team's bottleneck moved from delivery to onboarding to code review as AI took over more of the output. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/gCUMm1v5ojOoiE32udczXYQRC4iQinUtoSavvxJygLM=",
+    "file": "output-to-outcome-ch2-the-outcome-loop.mp3",
+    "length": 24670501,
+    "duration": 1542,
+    "pub_date": "2026-10-15T23:08:22-07:00"
   }
 ]
