@@ -1,3 +1,93 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow, noarchive"><title>Private feed</title></head>
-<body><p>Private feed.</p></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>John&#x27;s Deep Dives · How to subscribe</title>
+<style>
+:root{--fg:#1d1d1f;--muted:#6e6e73;--bg:#f5f5f7;--card:#fff;--accent:#7b2ff7;--line:#d2d2d7}
+@media (prefers-color-scheme:dark){:root{--fg:#f5f5f7;--muted:#a1a1a6;--bg:#000;--card:#1c1c1e;--line:#3a3a3c;--accent:#b38bff}}
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--fg)}
+main{max-width:640px;margin:0 auto;padding:24px 16px 48px}
+.hero{text-align:center}
+.hero img{width:min(240px,70vw);aspect-ratio:1;border-radius:18px;box-shadow:0 8px 30px rgba(0,0,0,.18)}
+h1{font-size:1.7rem;margin:16px 0 6px}
+.desc{color:var(--muted);margin:0 auto 20px;max-width:520px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin:16px 0}
+h2{font-size:1.1rem;margin:0 0 10px}
+.urlrow{display:flex;gap:8px;flex-wrap:wrap}
+input{flex:1 1 220px;min-width:0;font:14px ui-monospace,SFMono-Regular,Menlo,monospace;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg)}
+button,.btn{font:600 15px inherit;font-family:inherit;padding:10px 16px;border-radius:10px;border:0;background:var(--accent);color:#fff;cursor:pointer;text-decoration:none;display:inline-block;text-align:center}
+.btn{display:block;margin-top:4px}
+.note{color:var(--muted);font-size:.9rem;margin:8px 0 0}
+ol{padding-left:1.3em;margin:6px 0} li{margin:4px 0}
+#copied{color:#1a7f37;font-weight:600;min-height:1.4em;margin:6px 0 0}
+</style>
+</head>
+<body>
+<main>
+<div class="hero">
+<img src="cover.jpg" alt="John&#x27;s Deep Dives cover art">
+<h1>John&#x27;s Deep Dives</h1>
+<p class="desc">Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</p>
+</div>
+
+<div class="card">
+<h2>Podcast feed URL</h2>
+<div class="urlrow">
+<input id="feed" type="text" readonly value="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" aria-label="Feed URL" onclick="this.select()">
+<button id="copy" type="button">Copy URL</button>
+</div>
+<p id="copied" aria-live="polite"></p>
+</div>
+
+<div class="card">
+<h2>One tap on iPhone, iPad or Mac</h2>
+<a class="btn" href="podcasts://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml">Open in Apple Podcasts</a>
+<p class="note">Works on Apple devices with the Podcasts app. If nothing happens, use the steps below.</p>
+</div>
+
+<div class="card">
+<h2>Apple Podcasts on iPhone or iPad</h2>
+<ol>
+<li>Copy the feed URL above.</li>
+<li>Open the <b>Podcasts</b> app and tap <b>Library</b>.</li>
+<li>Tap the <b>More (…)</b> button at the top.</li>
+<li>Tap <b>Follow a Show by URL…</b></li>
+<li>Paste the URL and tap <b>Follow</b>.</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>Apple Podcasts on Mac</h2>
+<ol>
+<li>Copy the feed URL above.</li>
+<li>Open the <b>Podcasts</b> app.</li>
+<li>In the menu bar, choose <b>File &gt; Follow a Show by URL…</b></li>
+<li>Paste the URL and click <b>Follow</b>.</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>Other podcast apps</h2>
+<p>Most apps that accept a feed URL work too. In <b>Overcast</b>, tap <b>+</b> and choose <b>Add URL</b>. In <b>Pocket Casts</b>, paste the URL into the search box. Some apps, such as Spotify, don't support private feeds.</p>
+</div>
+</main>
+<script>
+(function(){
+  var url=document.getElementById('feed').value, msg=document.getElementById('copied');
+  function ok(){msg.textContent='Copied!';setTimeout(function(){msg.textContent='';},2500);}
+  function fallback(){
+    var i=document.getElementById('feed'); i.focus(); i.select(); i.setSelectionRange(0,url.length);
+    try{ if(document.execCommand('copy')) {ok();return;} }catch(e){}
+    msg.textContent='Select the URL and copy it manually.';
+  }
+  document.getElementById('copy').addEventListener('click',function(){
+    if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(url).then(ok,fallback);}else{fallback();}
+  });
+})();
+</script>
+</body>
+</html>
