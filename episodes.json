@@ -538,5 +538,14 @@
     "length": 25316666,
     "duration": 1582,
     "pub_date": "2026-10-15T15:53:44-07:00"
+  },
+  {
+    "guid": "9ad90219-414d-417f-a207-530e4fce84ed",
+    "title": "Output to Outcome, Ch 1: AI Won't Fix Your Company If the Bottleneck Isn't Code",
+    "description": "Episode 2 of our book-club series on Mik Kersten's \"Output to Outcome: An Operating Model for the Age of AI\" (IT Revolution, 2026). Chapter 1, \"Product Operating Model,\" opens Part I, \"Outcome Management,\" and is the first of the book's three foundational models, before the Outcome Loop (Ch 2) and the Outcome Tree (Ch 3). Kersten argues that AI's tenfold boost to coding won't help companies whose bottleneck sits elsewhere. In his State of the Industry data, only 8% of the time from idea to running software went to building it. We cover the Theory of Constraints and the jammed on-ramp, the history from McCallum's org chart to Gantt charts, Snowden's Cynefin framework and when to run a project versus a product, irreducible uncertainty and where AI can augment but not replace decisions, Reinertsen's life cycle profitability, the operating-model dysfunctions in Kersten's reports, and Commonwealth Bank of Australia's path from project to product to AI-native engineering. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/AL1vJA_m_BgKI2qgGiDOYX0qCm-QLrCkQtXXUnDLVzY=",
+    "file": "output-to-outcome-ch1-product-operating-model.mp3",
+    "length": 25301620,
+    "duration": 1581,
+    "pub_date": "2026-10-15T17:22:30-07:00"
   }
 ]
