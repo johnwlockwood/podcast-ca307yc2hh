@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:33:15 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:07:41 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Building AI Native: Rethink Everything: When Agents Write the Code, Every Rule Breaks</title>
+      <description>A pilot of Building AI Native, a builder-to-builder show for engineers making AI-native products. We dig into Avi Flombaum's essay series "Rethink Everything": the claim that most software best practices were optimizations for a human programmer who no longer writes the code. We cover verification over line-by-line reading, one-shot rewrites against end-to-end tests, choosing languages by strength rather than familiarity, small services in one repository with deliberate duplication, owning your infrastructure, and types as agent feedback. Then the tradeoffs: comprehension debt, slow end-to-end suites and the identity question. We close with one experiment to try this week. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/15WWkavPUTJOECMY8Pg01uLzrIn4-skDE8s39LoSFdw=</description>
+      <itunes:summary>A pilot of Building AI Native, a builder-to-builder show for engineers making AI-native products. We dig into Avi Flombaum's essay series "Rethink Everything": the claim that most software best practices were optimizations for a human programmer who no longer writes the code. We cover verification over line-by-line reading, one-shot rewrites against end-to-end tests, choosing languages by strength rather than familiarity, small services in one repository with deliberate duplication, owning your infrastructure, and types as agent feedback. Then the tradeoffs: comprehension debt, slow end-to-end suites and the identity question. We close with one experiment to try this week. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/15WWkavPUTJOECMY8Pg01uLzrIn4-skDE8s39LoSFdw=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/building-ai-native-rethink-everything.mp3" length="16695004" type="audio/mpeg"/>
+      <guid isPermaLink="false">7e9fdfb2-5f2b-42cc-b0a8-881be7f99504</guid>
+      <pubDate>Fri, 16 Oct 2026 16:07:41 -0700</pubDate>
+      <itunes:duration>17:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 3: The Outcome Tree: Scaling AI-Era Orgs Like Redwoods, Not Waterfalls</title>
       <description>Episode 4 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 3, "The Outcome Tree," is the last of Part I's three foundational models, after the Product Operating Model and the Outcome Loop. We also cover the short Conclusion to Part I, which previews the book's seven shifts. Kersten's question is how to scale one Outcome Loop to hundreds or thousands of value streams. We cover the "AI in Waterfall" dysfunction, the coordination math (n times n minus one connections), matrix overlays, Kotter's "second operating system," Holacracy and Haier's RenDanHeYi, and Geoffrey West's sublinear and superlinear scaling. We also cover the nature behind the model: redwoods, fractals, insulin and abscisic acid. Then the tree itself, with value streams as leaves, MECE partitioning, objective and budget cascades, and branching factors. Finally, Kersten's own path from Xerox PARC and AspectJ to building the Outcome Tree at Tasktop with help from Adrian Cockcroft and the Reverse Conway Maneuver, and his speculative idea of "organization as code." Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/wy1k6uei1RLPRhr6g-_05H8FMtpccLiN6Qim_obVF64=</description>

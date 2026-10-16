@@ -574,5 +574,14 @@
     "length": 25247285,
     "duration": 1578,
     "pub_date": "2026-10-16T10:33:01-07:00"
+  },
+  {
+    "guid": "7e9fdfb2-5f2b-42cc-b0a8-881be7f99504",
+    "title": "Building AI Native: Rethink Everything: When Agents Write the Code, Every Rule Breaks",
+    "description": "A pilot of Building AI Native, a builder-to-builder show for engineers making AI-native products. We dig into Avi Flombaum's essay series \"Rethink Everything\": the claim that most software best practices were optimizations for a human programmer who no longer writes the code. We cover verification over line-by-line reading, one-shot rewrites against end-to-end tests, choosing languages by strength rather than familiarity, small services in one repository with deliberate duplication, owning your infrastructure, and types as agent feedback. Then the tradeoffs: comprehension debt, slow end-to-end suites and the identity question. We close with one experiment to try this week. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/15WWkavPUTJOECMY8Pg01uLzrIn4-skDE8s39LoSFdw=",
+    "file": "building-ai-native-rethink-everything.mp3",
+    "length": 16695004,
+    "duration": 1043,
+    "pub_date": "2026-10-16T16:07:41.297900-07:00"
   }
 ]
