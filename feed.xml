@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:29:14 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:33:15 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 3: The Outcome Tree: Scaling AI-Era Orgs Like Redwoods, Not Waterfalls</title>
+      <description>Episode 4 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 3, "The Outcome Tree," is the last of Part I's three foundational models, after the Product Operating Model and the Outcome Loop. We also cover the short Conclusion to Part I, which previews the book's seven shifts. Kersten's question is how to scale one Outcome Loop to hundreds or thousands of value streams. We cover the "AI in Waterfall" dysfunction, the coordination math (n times n minus one connections), matrix overlays, Kotter's "second operating system," Holacracy and Haier's RenDanHeYi, and Geoffrey West's sublinear and superlinear scaling. We also cover the nature behind the model: redwoods, fractals, insulin and abscisic acid. Then the tree itself, with value streams as leaves, MECE partitioning, objective and budget cascades, and branching factors. Finally, Kersten's own path from Xerox PARC and AspectJ to building the Outcome Tree at Tasktop with help from Adrian Cockcroft and the Reverse Conway Maneuver, and his speculative idea of "organization as code." Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/wy1k6uei1RLPRhr6g-_05H8FMtpccLiN6Qim_obVF64=</description>
+      <itunes:summary>Episode 4 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 3, "The Outcome Tree," is the last of Part I's three foundational models, after the Product Operating Model and the Outcome Loop. We also cover the short Conclusion to Part I, which previews the book's seven shifts. Kersten's question is how to scale one Outcome Loop to hundreds or thousands of value streams. We cover the "AI in Waterfall" dysfunction, the coordination math (n times n minus one connections), matrix overlays, Kotter's "second operating system," Holacracy and Haier's RenDanHeYi, and Geoffrey West's sublinear and superlinear scaling. We also cover the nature behind the model: redwoods, fractals, insulin and abscisic acid. Then the tree itself, with value streams as leaves, MECE partitioning, objective and budget cascades, and branching factors. Finally, Kersten's own path from Xerox PARC and AspectJ to building the Outcome Tree at Tasktop with help from Adrian Cockcroft and the Reverse Conway Maneuver, and his speculative idea of "organization as code." Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/wy1k6uei1RLPRhr6g-_05H8FMtpccLiN6Qim_obVF64=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch3-the-outcome-tree.mp3" length="25247285" type="audio/mpeg"/>
+      <guid isPermaLink="false">4bc4fc20-7576-4123-b740-5be2f25b2f80</guid>
+      <pubDate>Fri, 16 Oct 2026 10:33:01 -0700</pubDate>
+      <itunes:duration>26:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 2: The Outcome Loop: Constraints, AI Surplus, and the Next Bottleneck</title>
       <description>Episode 3 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 2, "The Outcome Loop," sits in the middle of Part I, "Outcome Management." It builds on Chapter 1's Product Operating Model, sets up Chapter 3's Outcome Tree, and is the core model that the book's seven shifts in Part II build on. Kersten defines the loop as the feedback system that connects inputs (strategy and budget) to outputs (activities and artifacts) to outcomes (employee, customer and business) and back again. We cover production elasticity and Amazon, the lineage from outcome-based healthcare and Jobs to Be Done to OKRs, Kersten's own path from PhD research to Tasktop, key results versus KPIs, the TeenWellness worked example, why the loop is a hypothesis test, broken telemetry and the "counting procedures" trap, applying the Theory of Constraints, and how the VS Code team's bottleneck moved from delivery to onboarding to code review as AI took over more of the output. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph and its subgraph: https://www.intuibloom.com/share/44MjhAtNsiB9AQFhMBKuD_lzt1x43tCLS55t9rPUJOs%3D/8eaebb35-c4ab-4ad3-beb0-bd949d43d5fd</description>
