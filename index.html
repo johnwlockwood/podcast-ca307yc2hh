@@ -24,6 +24,15 @@ button,.btn{font-family:inherit;font-weight:600;font-size:15px;padding:10px 16px
 .note{color:var(--muted);font-size:.9rem;margin:8px 0 0}
 ol{padding-left:1.3em;margin:6px 0} li{margin:4px 0}
 #copied{color:#1a7f37;font-weight:600;min-height:1.4em;margin:6px 0 0}
+.ep{border-top:1px solid var(--line);padding:14px 0}
+.ep:first-child{border-top:0;padding-top:4px}
+.ep h3{font-size:1rem;margin:0 0 2px}
+.meta{color:var(--muted);font-size:.85rem;margin:0 0 8px}
+.ep audio{width:100%;margin:6px 0}
+.ep details{font-size:.92rem}
+.ep summary{cursor:pointer;color:var(--accent)}
+.ep details p{margin:6px 0 0;overflow-wrap:anywhere}
+.ep a{color:var(--accent)}
 </style>
 </head>
 <body>
@@ -74,6 +83,11 @@ ol{padding-left:1.3em;margin:6px 0} li{margin:4px 0}
 <h2>Other podcast apps</h2>
 <p>Most apps that accept a feed URL work too. In <b>Overcast</b>, tap <b>+</b> and choose <b>Add URL</b>. In <b>Pocket Casts</b>, paste the URL into the search box. Some apps, such as Spotify, don't support private feeds.</p>
 </div>
+<div class="card" id="episodes">
+<h2>Episodes</h2>
+<div id="eplist"><p class="note">Loading episodes…</p></div>
+<noscript><p class="note">Turn on JavaScript to see and play episodes here, or follow the show in your podcast app using the feed URL above.</p></noscript>
+</div>
 </main>
 <script>
 (function(){
@@ -87,6 +101,40 @@ ol{padding-left:1.3em;margin:6px 0} li{margin:4px 0}
   document.getElementById('copy').addEventListener('click',function(){
     if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(url).then(ok,fallback);}else{fallback();}
   });
+  (function(){
+    var box=document.getElementById('eplist');
+    function el(t,c,txt){var e=document.createElement(t);if(c)e.className=c;if(txt!=null)e.textContent=txt;return e;}
+    function q(it,n){var x=it.getElementsByTagName(n)[0];return x?x.textContent.trim():'';}
+    function fmtDur(d){if(!d)return '';if(/^\d+$/.test(d)){var s=+d;d=Math.floor(s/60)+':'+('0'+s%60).slice(-2);}var p=d.split(':').map(Number);var m=p.length==3?p[0]*60+p[1]:p[0];return m+' min';}
+    function addText(p,txt){
+      var re=/https?:\/\/[^\s<>"]+/g,last=0,m;
+      while((m=re.exec(txt))){
+        p.appendChild(document.createTextNode(txt.slice(last,m.index)));
+        var u=m[0].replace(/[.,)]+$/,'');
+        var a=el('a',null,u);a.href=u;a.rel='noopener noreferrer';a.target='_blank';p.appendChild(a);
+        last=m.index+u.length;
+      }
+      p.appendChild(document.createTextNode(txt.slice(last)));
+    }
+    fetch('feed.xml',{cache:'no-cache'}).then(function(r){if(!r.ok)throw 0;return r.text();}).then(function(t){
+      var doc=new DOMParser().parseFromString(t,'application/xml');
+      var items=[].slice.call(doc.getElementsByTagName('item')).map(function(it){
+        var enc=it.getElementsByTagName('enclosure')[0];
+        return {t:q(it,'title'),d:q(it,'description'),date:new Date(q(it,'pubDate')),dur:q(it,'itunes:duration'),u:enc?enc.getAttribute('url'):''};
+      }).sort(function(a,b){return b.date-a.date;});
+      box.textContent='';
+      if(!items.length){box.appendChild(el('p','note','No episodes yet.'));return;}
+      items.forEach(function(e){
+        var d=el('div','ep');d.appendChild(el('h3',null,e.t));
+        var meta=[isNaN(e.date)?'':e.date.toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'}),fmtDur(e.dur)].filter(Boolean).join(' · ');
+        d.appendChild(el('p','meta',meta));
+        if(/^https:\/\//.test(e.u)){var a=el('audio');a.controls=true;a.preload='none';a.src=e.u;d.appendChild(a);}
+        if(e.d){var det=el('details'),sm=el('summary',null,'Description'),p=el('p');addText(p,e.d);det.appendChild(sm);det.appendChild(p);d.appendChild(det);}
+        box.appendChild(d);
+      });
+      document.addEventListener('play',function(ev){[].forEach.call(document.getElementsByTagName('audio'),function(x){if(x!==ev.target)x.pause();});},true);
+    }).catch(function(){box.textContent='';box.appendChild(el('p','note','Could not load episodes. Use the feed URL above in your podcast app.'));});
+  })();
 })();
 </script>
 </body>
