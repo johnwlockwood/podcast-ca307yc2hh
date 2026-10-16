@@ -547,5 +547,14 @@
     "length": 25301620,
     "duration": 1581,
     "pub_date": "2026-10-15T17:22:30-07:00"
+  },
+  {
+    "guid": "5061953b-e36d-4c3a-b1ba-91827a7c50cd",
+    "title": "From AI Skeptic to Agent Whisperer: Rethinking the Work",
+    "description": "Mitchell Hashimoto's essay \"My AI Adoption Journey\" traces a measured path from AI skeptic to working with an agent alongside them most days. We cover Mitchell's three phases of adopting any tool (inefficiency, adequacy, discovery) and their six steps: dropping the chatbot for tool-using agents, doing the work twice to learn what agents do well, end-of-day agents for a \"warm start,\" outsourcing the slam dunks with notifications off, \"harness engineering\" with AGENTS.md and verification tools, and always having an agent running. We also cover the open question Mitchell raises about skill formation, especially for juniors. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/cL0rFE_6eRziao0xBfGuG4A1e_jkUGwdg9V0AO7-u3Q=",
+    "file": "mitchellh-ai-adoption-journey.mp3",
+    "length": 20340444,
+    "duration": 1271,
+    "pub_date": "2026-10-15T19:55:22-07:00"
   }
 ]

@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:22:33 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:55:38 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>From AI Skeptic to Agent Whisperer: Rethinking the Work</title>
+      <description>Mitchell Hashimoto's essay "My AI Adoption Journey" traces a measured path from AI skeptic to working with an agent alongside them most days. We cover Mitchell's three phases of adopting any tool (inefficiency, adequacy, discovery) and their six steps: dropping the chatbot for tool-using agents, doing the work twice to learn what agents do well, end-of-day agents for a "warm start," outsourcing the slam dunks with notifications off, "harness engineering" with AGENTS.md and verification tools, and always having an agent running. We also cover the open question Mitchell raises about skill formation, especially for juniors. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/cL0rFE_6eRziao0xBfGuG4A1e_jkUGwdg9V0AO7-u3Q=</description>
+      <itunes:summary>Mitchell Hashimoto's essay "My AI Adoption Journey" traces a measured path from AI skeptic to working with an agent alongside them most days. We cover Mitchell's three phases of adopting any tool (inefficiency, adequacy, discovery) and their six steps: dropping the chatbot for tool-using agents, doing the work twice to learn what agents do well, end-of-day agents for a "warm start," outsourcing the slam dunks with notifications off, "harness engineering" with AGENTS.md and verification tools, and always having an agent running. We also cover the open question Mitchell raises about skill formation, especially for juniors. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/cL0rFE_6eRziao0xBfGuG4A1e_jkUGwdg9V0AO7-u3Q=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/mitchellh-ai-adoption-journey.mp3" length="20340444" type="audio/mpeg"/>
+      <guid isPermaLink="false">5061953b-e36d-4c3a-b1ba-91827a7c50cd</guid>
+      <pubDate>Thu, 15 Oct 2026 19:55:22 -0700</pubDate>
+      <itunes:duration>21:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 1: AI Won't Fix Your Company If the Bottleneck Isn't Code</title>
       <description>Episode 2 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 1, "Product Operating Model," opens Part I, "Outcome Management," and is the first of the book's three foundational models, before the Outcome Loop (Ch 2) and the Outcome Tree (Ch 3). Kersten argues that AI's tenfold boost to coding won't help companies whose bottleneck sits elsewhere. In his State of the Industry data, only 8% of the time from idea to running software went to building it. We cover the Theory of Constraints and the jammed on-ramp, the history from McCallum's org chart to Gantt charts, Snowden's Cynefin framework and when to run a project versus a product, irreducible uncertainty and where AI can augment but not replace decisions, Reinertsen's life cycle profitability, the operating-model dysfunctions in Kersten's reports, and Commonwealth Bank of Australia's path from project to product to AI-native engineering. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/AL1vJA_m_BgKI2qgGiDOYX0qCm-QLrCkQtXXUnDLVzY=</description>
