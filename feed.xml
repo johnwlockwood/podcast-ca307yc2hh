@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 08:34:58 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:18:49 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 5: AI Made Output Cheap. Now Only Outcomes Matter</title>
+      <description>Episode 6 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 5, "Slop to Substance," is the second of Part II's seven shifts, after Chapter 4's move from functions to flow. Kersten argues that when AI makes output nearly unlimited, output metrics turn into vanity metrics, and only outcomes tell you whether work matters. We cover local optimization, Outcome Loop telemetry, and Strategic Portfolio Management. Then Plan Distribution (planned, unplanned, canceled and aged work, with only 25% of studied work aligned to strategy) and Goodhart's Law. Then the four Flow Items (features, defects, risks and debts), Flow Distribution, feature factories and the tech debt death spiral. Then the Flow Metrics Model: flow time, velocity, load and efficiency, and why not to use it on individuals. We also cover capacity planning from historical velocity, outcome metrics and attribution, Theory of Constraints, improvement objectives paired with employee happiness, agents that inspect Outcome Loops, and Vanguard's "Ideation Cliff." Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/DuZBgo8ax_G7-V03BxgwknLgZkgleMMO1_rduSuutK8=</description>
+      <itunes:summary>Episode 6 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 5, "Slop to Substance," is the second of Part II's seven shifts, after Chapter 4's move from functions to flow. Kersten argues that when AI makes output nearly unlimited, output metrics turn into vanity metrics, and only outcomes tell you whether work matters. We cover local optimization, Outcome Loop telemetry, and Strategic Portfolio Management. Then Plan Distribution (planned, unplanned, canceled and aged work, with only 25% of studied work aligned to strategy) and Goodhart's Law. Then the four Flow Items (features, defects, risks and debts), Flow Distribution, feature factories and the tech debt death spiral. Then the Flow Metrics Model: flow time, velocity, load and efficiency, and why not to use it on individuals. We also cover capacity planning from historical velocity, outcome metrics and attribution, Theory of Constraints, improvement objectives paired with employee happiness, agents that inspect Outcome Loops, and Vanguard's "Ideation Cliff." Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/DuZBgo8ax_G7-V03BxgwknLgZkgleMMO1_rduSuutK8=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch5-slop-to-substance.mp3" length="25195876" type="audio/mpeg"/>
+      <guid isPermaLink="false">43c17129-262c-4727-b997-02dfb56ce133</guid>
+      <pubDate>Sat, 17 Oct 2026 09:18:45 -0700</pubDate>
+      <itunes:duration>26:15</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 4: From Silos to Value Streams: How AI Rewires the Org Chart</title>
       <description>Episode 5 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 4 opens Part II, "The Seven Shifts," with the first shift: Functions to Flow. After Part I's three models (the Product Operating Model, the Outcome Loop and the Outcome Tree), Kersten argues that organizing around functional silos stops working when AI extends everyone's reach across domains. We cover handoffs and wait states, Priceline's drop from fifteen handoffs to five, and the Dedicated Leadership Model, Amazon's Single-Threaded Owners and Leaders, and single-, dual- and triple-leader structures. We also cover Kersten's claim that AI makes single leaders viable in more cases. Then value stream scope and "independence of action," SLAs for supporting functions, Value Stream Management and its lean manufacturing roots, capacity-based funding, and Weighted Shortest Job First. Finally, the TUI Group case: flow time cut from two hundred days to fifteen, a four-level AI literacy ladder, more than three thousand internal agents, and managers moving from owning people to owning outcomes. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/nc29idOXdpMrXAzgs_Q56M_LRVAkmU6S3QIsjww2o8w=</description>

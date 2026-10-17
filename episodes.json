@@ -592,5 +592,14 @@
     "length": 27810211,
     "duration": 1738,
     "pub_date": "2026-10-17T08:34:53-07:00"
+  },
+  {
+    "guid": "43c17129-262c-4727-b997-02dfb56ce133",
+    "title": "Output to Outcome, Ch 5: AI Made Output Cheap. Now Only Outcomes Matter",
+    "description": "Episode 6 of our book-club series on Mik Kersten's \"Output to Outcome: An Operating Model for the Age of AI\" (IT Revolution, 2026). Chapter 5, \"Slop to Substance,\" is the second of Part II's seven shifts, after Chapter 4's move from functions to flow. Kersten argues that when AI makes output nearly unlimited, output metrics turn into vanity metrics, and only outcomes tell you whether work matters. We cover local optimization, Outcome Loop telemetry, and Strategic Portfolio Management. Then Plan Distribution (planned, unplanned, canceled and aged work, with only 25% of studied work aligned to strategy) and Goodhart's Law. Then the four Flow Items (features, defects, risks and debts), Flow Distribution, feature factories and the tech debt death spiral. Then the Flow Metrics Model: flow time, velocity, load and efficiency, and why not to use it on individuals. We also cover capacity planning from historical velocity, outcome metrics and attribution, Theory of Constraints, improvement objectives paired with employee happiness, agents that inspect Outcome Loops, and Vanguard's \"Ideation Cliff.\" Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/DuZBgo8ax_G7-V03BxgwknLgZkgleMMO1_rduSuutK8=",
+    "file": "output-to-outcome-ch5-slop-to-substance.mp3",
+    "length": 25195876,
+    "duration": 1575,
+    "pub_date": "2026-10-17T09:18:45-07:00"
   }
 ]
