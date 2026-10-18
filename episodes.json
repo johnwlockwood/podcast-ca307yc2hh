@@ -610,5 +610,14 @@
     "length": 23330524,
     "duration": 1458,
     "pub_date": "2026-10-17T17:08:56-07:00"
+  },
+  {
+    "guid": "6cec8e9f-0014-4b0f-a873-41a1ae72523c",
+    "title": "Output to Outcome, Ch 7: From Messy Matrix to Modularity: Wiring Your Org for the Age of AI",
+    "description": "Episode 8 of our book-club series on Mik Kersten's \"Output to Outcome: An Operating Model for the Age of AI\" (IT Revolution, 2026). Chapter 7, \"Matrix to Modularity,\" is the fourth of Part II's seven shifts, after Functions to Flow, Slop to Substance and Chaos to Cadence. Kersten argues that matrix and \"dotted line\" reporting creates a messy matrix of slow decisions, and that the fix is modular value streams built for independence of action. We cover high cohesion and low coupling (with LEGO, Linux and Google's overlapping messaging apps), Conway's Law and sociotechnical congruence, and the embed-versus-depend tradeoff. We also cover why improvement work belongs on the common parent's roadmap, one complexity domain per team, and Carliss Baldwin's option value. Then agents owning whole value streams, parallel hypothesis testing, John Lewis Partnership cutting delivery from ten days to 1.3, and Priceline's \"Operating Model testing\" taking complex flows from fifteen handoffs to five. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/sf8kMZeSghlFHdWwLvWwObHdgc8YlF8GliIW3LG2hnk=",
+    "file": "output-to-outcome-ch7-matrix-to-modularity.mp3",
+    "length": 24268425,
+    "duration": 1517,
+    "pub_date": "2026-10-17T17:09:56-07:00"
   }
 ]

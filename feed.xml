@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:09:13 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:09:18 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 7: From Messy Matrix to Modularity: Wiring Your Org for the Age of AI</title>
+      <description>Episode 8 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 7, "Matrix to Modularity," is the fourth of Part II's seven shifts, after Functions to Flow, Slop to Substance and Chaos to Cadence. Kersten argues that matrix and "dotted line" reporting creates a messy matrix of slow decisions, and that the fix is modular value streams built for independence of action. We cover high cohesion and low coupling (with LEGO, Linux and Google's overlapping messaging apps), Conway's Law and sociotechnical congruence, and the embed-versus-depend tradeoff. We also cover why improvement work belongs on the common parent's roadmap, one complexity domain per team, and Carliss Baldwin's option value. Then agents owning whole value streams, parallel hypothesis testing, John Lewis Partnership cutting delivery from ten days to 1.3, and Priceline's "Operating Model testing" taking complex flows from fifteen handoffs to five. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/sf8kMZeSghlFHdWwLvWwObHdgc8YlF8GliIW3LG2hnk=</description>
+      <itunes:summary>Episode 8 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 7, "Matrix to Modularity," is the fourth of Part II's seven shifts, after Functions to Flow, Slop to Substance and Chaos to Cadence. Kersten argues that matrix and "dotted line" reporting creates a messy matrix of slow decisions, and that the fix is modular value streams built for independence of action. We cover high cohesion and low coupling (with LEGO, Linux and Google's overlapping messaging apps), Conway's Law and sociotechnical congruence, and the embed-versus-depend tradeoff. We also cover why improvement work belongs on the common parent's roadmap, one complexity domain per team, and Carliss Baldwin's option value. Then agents owning whole value streams, parallel hypothesis testing, John Lewis Partnership cutting delivery from ten days to 1.3, and Priceline's "Operating Model testing" taking complex flows from fifteen handoffs to five. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/sf8kMZeSghlFHdWwLvWwObHdgc8YlF8GliIW3LG2hnk=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch7-matrix-to-modularity.mp3" length="24268425" type="audio/mpeg"/>
+      <guid isPermaLink="false">6cec8e9f-0014-4b0f-a873-41a1ae72523c</guid>
+      <pubDate>Sat, 17 Oct 2026 17:09:56 -0700</pubDate>
+      <itunes:duration>25:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 6: One Cadence to Rule Them All: AI's Real Operating System</title>
       <description>Episode 7 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 6, "Chaos to Cadence," is the third of Part II's seven shifts, after Functions to Flow and Slop to Substance. Kersten asks why billion-dollar Agile and AI transformations can leave companies feeling slower. His answers: missing outcome measurement, and Agile layered onto legacy planning as a "second operating system." We cover the tree whose leaves photosynthesize faster than its trunk can carry, coordination cost, and the Unified Cadence Model of shared annual, quarterly, monthly and weekly cycles. We also cover planning against fixed historical capacity, roadmap autonomy with visible dependencies, and the recursive planning cascade down the Outcome Tree. Then the inputs, outputs and outcomes value stream report (including AI token spend), calendar-aligned planning, and the merger of Planview's and Tasktop's cadences, where moving to one cadence cut meeting and reporting overhead in half. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/tq1BMsbEJ7jb2yIKSe5k5O4Uyv6bsxfOf8skMCtOSMk=</description>
