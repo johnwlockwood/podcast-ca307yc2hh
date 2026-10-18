@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:09:18 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:09:23 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Output to Outcome, Ch 8: Who Owns the Outcome? The Hidden Cost of Shared Accountability</title>
+      <description>Episode 9 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 8, "Objectives to Ownership," is the fifth of Part II's seven shifts, after Functions to Flow, Slop to Substance, Chaos to Cadence and Matrix to Modularity. Kersten argues that ownership is the main control mechanism of the Outcome Tree, and that functional, matrix and shared ownership all diffuse accountability. We cover the Outcome Ownership Model, matching leaders' incentives one to one with their value stream's objectives, and turning priority order into incentive weights. We also cover why shared objectives are a trap (with Google's named owners and Apple's directly responsible individuals), aligning title levels to the tree, and title imbalance in dual-leader pairs. Then technical program managers and AI for dependency scenarios, the five-by-five limit on objectives and key results, and 70% stretch goals. Finally, Kersten's post-ChatGPT reorganization at Planview into a three-in-the-box AI value stream, and the later move, like GitHub Copilot's, to spread AI engineers into product teams. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/gKmd9RX8kLS-DUGpfbJV2ektCWKeh4MOoiv3FLTOfK4=</description>
+      <itunes:summary>Episode 9 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 8, "Objectives to Ownership," is the fifth of Part II's seven shifts, after Functions to Flow, Slop to Substance, Chaos to Cadence and Matrix to Modularity. Kersten argues that ownership is the main control mechanism of the Outcome Tree, and that functional, matrix and shared ownership all diffuse accountability. We cover the Outcome Ownership Model, matching leaders' incentives one to one with their value stream's objectives, and turning priority order into incentive weights. We also cover why shared objectives are a trap (with Google's named owners and Apple's directly responsible individuals), aligning title levels to the tree, and title imbalance in dual-leader pairs. Then technical program managers and AI for dependency scenarios, the five-by-five limit on objectives and key results, and 70% stretch goals. Finally, Kersten's post-ChatGPT reorganization at Planview into a three-in-the-box AI value stream, and the later move, like GitHub Copilot's, to spread AI engineers into product teams. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/gKmd9RX8kLS-DUGpfbJV2ektCWKeh4MOoiv3FLTOfK4=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/output-to-outcome-ch8-objectives-to-ownership.mp3" length="23614318" type="audio/mpeg"/>
+      <guid isPermaLink="false">a0efc88d-c7cc-46b4-9972-59d8c84ce61f</guid>
+      <pubDate>Sat, 17 Oct 2026 17:10:56 -0700</pubDate>
+      <itunes:duration>24:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Ch 7: From Messy Matrix to Modularity: Wiring Your Org for the Age of AI</title>
       <description>Episode 8 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026). Chapter 7, "Matrix to Modularity," is the fourth of Part II's seven shifts, after Functions to Flow, Slop to Substance and Chaos to Cadence. Kersten argues that matrix and "dotted line" reporting creates a messy matrix of slow decisions, and that the fix is modular value streams built for independence of action. We cover high cohesion and low coupling (with LEGO, Linux and Google's overlapping messaging apps), Conway's Law and sociotechnical congruence, and the embed-versus-depend tradeoff. We also cover why improvement work belongs on the common parent's roadmap, one complexity domain per team, and Carliss Baldwin's option value. Then agents owning whole value streams, parallel hypothesis testing, John Lewis Partnership cutting delivery from ten days to 1.3, and Priceline's "Operating Model testing" taking complex flows from fifteen handoffs to five. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/sf8kMZeSghlFHdWwLvWwObHdgc8YlF8GliIW3LG2hnk=</description>
