@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:18:52 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:39:15 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Smarter Models, Sharper Apps: The Applied AI Specialization Bet</title>
+      <description>As foundation models get smarter, do AI products converge or specialize? We dig into a this-week exchange between @signulll, who argues that smarter models mean founders build in less intelligence and mostly add near-universal guardrails and direction (hence lots of look-alike products), and Box CEO Aaron Levie, who argues the opposite: the "wrapper" era was a symptom of weak models, and agents using tools, tasks that run for hours or days, agent swarms, domain-specific data and routing, and real workflow change management make domain-by-domain differentiation go up, except close to the labs' core use cases. We cover Rich Sutton's "The Bitter Lesson," RAG and wrappers, long-horizon autonomy and orchestration, a steelman of the convergence case, and whether the two really disagree. We also cover the graph's broader lenses: enterprise diffusion, trust and verification as a possible moat, Coase and Williamson on transaction costs and build versus buy, and where value is captured in the AI stack. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ym6BeeBlz4LD-t7N4ocRoYDn3GQGlAtmiHKpIoLCwcI=</description>
+      <itunes:summary>As foundation models get smarter, do AI products converge or specialize? We dig into a this-week exchange between @signulll, who argues that smarter models mean founders build in less intelligence and mostly add near-universal guardrails and direction (hence lots of look-alike products), and Box CEO Aaron Levie, who argues the opposite: the "wrapper" era was a symptom of weak models, and agents using tools, tasks that run for hours or days, agent swarms, domain-specific data and routing, and real workflow change management make domain-by-domain differentiation go up, except close to the labs' core use cases. We cover Rich Sutton's "The Bitter Lesson," RAG and wrappers, long-horizon autonomy and orchestration, a steelman of the convergence case, and whether the two really disagree. We also cover the graph's broader lenses: enterprise diffusion, trust and verification as a possible moat, Coase and Williamson on transaction costs and build versus buy, and where value is captured in the AI stack. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ym6BeeBlz4LD-t7N4ocRoYDn3GQGlAtmiHKpIoLCwcI=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/smarter-models-sharper-apps-applied-ai-specialization.mp3" length="23852555" type="audio/mpeg"/>
+      <guid isPermaLink="false">dc40dfe0-0bbc-48db-8df8-2db3c0509aff</guid>
+      <pubDate>Tue, 20 Oct 2026 08:39:15 -0700</pubDate>
+      <itunes:duration>24:51</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Output to Outcome, Bonus: The Playbook: Three Models and Seven Shifts in Practice</title>
       <description>Episode 12 of our book-club series on Mik Kersten's "Output to Outcome: An Operating Model for the Age of AI" (IT Revolution, 2026): a bonus, practical episode after the series finale. The book's Appendix, "Playbook," compresses the whole book into one implementation checklist. We walk through its problem, solution and target state, the three foundational models (the Product Operating Model, the Outcome Loop and the Outcome Tree) and all seven shifts, each with a reminder from its chapter and a small first step you could try (our suggestions, not the book's). We also run the playbook backwards from the dysfunctions Kersten names in each chapter, follow the TeenWellness example through the whole book, discuss pressure points raised by the IntuiBloom graph (Goodhart's Law, Conway's Law and the ambidextrous organization), and look back at the whole series. Discussion questions: 1) If you could start only one of the seven shifts next month, which would it be, and why that one? 2) Which item on the playbook would your organization find hardest to adopt? And what's really standing in the way? 3) Looking back across the whole book, which idea changed how you see your own work the most? Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/z0QYFuLmoZ__kUrakmmlXNPnnQ0QZhgtUVWsFYg_Qdw=</description>

@@ -655,5 +655,14 @@
     "length": 22906714,
     "duration": 1432,
     "pub_date": "2026-10-18T11:22:00-07:00"
+  },
+  {
+    "guid": "dc40dfe0-0bbc-48db-8df8-2db3c0509aff",
+    "title": "Smarter Models, Sharper Apps: The Applied AI Specialization Bet",
+    "description": "As foundation models get smarter, do AI products converge or specialize? We dig into a this-week exchange between @signulll, who argues that smarter models mean founders build in less intelligence and mostly add near-universal guardrails and direction (hence lots of look-alike products), and Box CEO Aaron Levie, who argues the opposite: the \"wrapper\" era was a symptom of weak models, and agents using tools, tasks that run for hours or days, agent swarms, domain-specific data and routing, and real workflow change management make domain-by-domain differentiation go up, except close to the labs' core use cases. We cover Rich Sutton's \"The Bitter Lesson,\" RAG and wrappers, long-horizon autonomy and orchestration, a steelman of the convergence case, and whether the two really disagree. We also cover the graph's broader lenses: enterprise diffusion, trust and verification as a possible moat, Coase and Williamson on transaction costs and build versus buy, and where value is captured in the AI stack. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ym6BeeBlz4LD-t7N4ocRoYDn3GQGlAtmiHKpIoLCwcI=",
+    "file": "smarter-models-sharper-apps-applied-ai-specialization.mp3",
+    "length": 23852555,
+    "duration": 1491,
+    "pub_date": "2026-10-20T08:39:15.371228-07:00"
   }
 ]
