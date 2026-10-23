@@ -673,5 +673,14 @@
     "length": 21856800,
     "duration": 1366,
     "pub_date": "2026-10-23T10:49:22.216699-07:00"
+  },
+  {
+    "guid": "ae85b513-b7ef-4fc9-8334-d6fc45985895",
+    "title": "When Compute Becomes Credit, Startups Face a New Gatekeeper",
+    "description": "What if you had to pay for your whole compute contract up front? In this deep dive on Evan Conrad's essay \"The end of startups: The coming credit crunch\" (October 22, 2026), we walk through the author's argument that AI compute is sold out and that access now depends on credit: rising upfront deposits for non-investment-grade buyers, downgraded intermediaries, inference margins the author expects to shrink, and a credit flywheel that favors companies with strong balance sheets. Then we look at the author's proposed fix, a physically settled forwards market for GPU hours from their company, SF Compute, and the open questions about whether GPU hours are standard enough to work as collateral. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/I_VFyx0llviUFQWC2Om_fxZSfix0I9N_HgMsFRMO9cU=",
+    "file": "end-of-startups-compute-credit.mp3",
+    "length": 21193081,
+    "duration": 1325,
+    "pub_date": "2026-10-23T13:36:55.485857-07:00"
   }
 ]
