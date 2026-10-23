@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:39:15 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:49:22 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Black October: AI’s Cybershock—or a Warning Without Proof?</title>
+      <description>A self-described tech optimist says the vibes have shifted. In this deep dive on John Milinovich's X post "Black October" (October 22, 2026), we walk through the author's claims: a two-day wave of record-breaking cyberattacks, frontier AI coding agents that can be spun up by the thousands, nearly-as-capable open-weight models, and a "fast takeoff" with breakthroughs across science, then their practical advice (two-factor authentication, a password manager, identity protection, a separate network for smart devices) and the surprising call to start using AI. We present the claims as the author's, flag what the post doesn't source, and separate what you can check from what's interpretation. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/91PTVBnmkwyWsKkjgqaFtUDfEZUlEY92Gt21mLNIb54=</description>
+      <itunes:summary>A self-described tech optimist says the vibes have shifted. In this deep dive on John Milinovich's X post "Black October" (October 22, 2026), we walk through the author's claims: a two-day wave of record-breaking cyberattacks, frontier AI coding agents that can be spun up by the thousands, nearly-as-capable open-weight models, and a "fast takeoff" with breakthroughs across science, then their practical advice (two-factor authentication, a password manager, identity protection, a separate network for smart devices) and the surprising call to start using AI. We present the claims as the author's, flag what the post doesn't source, and separate what you can check from what's interpretation. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/91PTVBnmkwyWsKkjgqaFtUDfEZUlEY92Gt21mLNIb54=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/black-october-ai-cybershock.mp3" length="21856800" type="audio/mpeg"/>
+      <guid isPermaLink="false">393d8828-478b-4cde-a9ad-2b0e23d49221</guid>
+      <pubDate>Fri, 23 Oct 2026 10:49:22 -0700</pubDate>
+      <itunes:duration>22:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Smarter Models, Sharper Apps: The Applied AI Specialization Bet</title>
       <description>As foundation models get smarter, do AI products converge or specialize? We dig into a this-week exchange between @signulll, who argues that smarter models mean founders build in less intelligence and mostly add near-universal guardrails and direction (hence lots of look-alike products), and Box CEO Aaron Levie, who argues the opposite: the "wrapper" era was a symptom of weak models, and agents using tools, tasks that run for hours or days, agent swarms, domain-specific data and routing, and real workflow change management make domain-by-domain differentiation go up, except close to the labs' core use cases. We cover Rich Sutton's "The Bitter Lesson," RAG and wrappers, long-horizon autonomy and orchestration, a steelman of the convergence case, and whether the two really disagree. We also cover the graph's broader lenses: enterprise diffusion, trust and verification as a possible moat, Coase and Williamson on transaction costs and build versus buy, and where value is captured in the AI stack. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ym6BeeBlz4LD-t7N4ocRoYDn3GQGlAtmiHKpIoLCwcI=</description>
