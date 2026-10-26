@@ -682,5 +682,14 @@
     "length": 21193081,
     "duration": 1325,
     "pub_date": "2026-10-23T13:36:55.485857-07:00"
+  },
+  {
+    "guid": "6924b006-3d4c-4029-89b1-9a54fecb47f1",
+    "title": "When AI Writes the Code, Review Becomes a Safety System",
+    "description": "What does code review mean when AI agents write most of the code? In this deep dive on Addy Osmani's X article \"How the Claude Code team does code review\" (October 26, 2026), we walk through the account of how review shifts from reading every line to a layered safety system: checks before a pull request (tests, builds, screenshot comparison, fresh-context agent review), an automated PR reviewer with parallel agents and a voting step to cut false positives, a security gate, human approval scaled by risk, merge queues, feature flags and gradual release, one-step reverts, testing the reviewer against past incidents, stopping rules for agent review loops, new ways to learn a codebase, and the norm \"you land it, you own it.\" We present the practices as the article's account; reported results aren't independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/3SEck2pgpVs9cRa9iYTn_RpSecrDdr74cUilvJFbCHI=",
+    "file": "claude-code-review-safety-system.mp3",
+    "length": 21943318,
+    "duration": 1371,
+    "pub_date": "2026-10-26T09:11:54.253259-07:00"
   }
 ]
