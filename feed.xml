@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:11:54 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:39:22 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Why a real buyer would find it weird not to buy from you</title>
+      <description>Stop asking how to convince a buyer, and ask why it would be weird for them not to buy right now. In this deep dive on "An 86-minute guide to finding PMF" with Rob Snyder, author of The Power of Pull, we walk through the framework's three ingredients (a project on the buyer's to-do list, a reason it's unavoidable now, and options that genuinely fall short), why pull belongs to a person rather than a company, the design partner trap, field immersion, the one-slide pull hypothesis, "founder magic" outreach, goblin mode, what a real buying signal sounds like, the five-call loop and the last-ditch ask, retention milestones, the case study factory and theory of constraints, and how Snyder sees AI compressing the zero-to-one stage, plus the Jump case study, where one missing ingredient erased demand. Claims and figures are Snyder's, as told in the interview. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/xTBPvGUmvnTHDRpOE_1aTsnOk7QWc1Y-D5dC6xcF6ms=</description>
+      <itunes:summary>Stop asking how to convince a buyer, and ask why it would be weird for them not to buy right now. In this deep dive on "An 86-minute guide to finding PMF" with Rob Snyder, author of The Power of Pull, we walk through the framework's three ingredients (a project on the buyer's to-do list, a reason it's unavoidable now, and options that genuinely fall short), why pull belongs to a person rather than a company, the design partner trap, field immersion, the one-slide pull hypothesis, "founder magic" outreach, goblin mode, what a real buying signal sounds like, the five-call loop and the last-ditch ask, retention milestones, the case study factory and theory of constraints, and how Snyder sees AI compressing the zero-to-one stage, plus the Jump case study, where one missing ingredient erased demand. Claims and figures are Snyder's, as told in the interview. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/xTBPvGUmvnTHDRpOE_1aTsnOk7QWc1Y-D5dC6xcF6ms=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/power-of-pull-rob-snyder.mp3" length="22253025" type="audio/mpeg"/>
+      <guid isPermaLink="false">db547183-f791-4842-8afb-fee968bee02a</guid>
+      <pubDate>Tue, 27 Oct 2026 08:39:22 -0700</pubDate>
+      <itunes:duration>23:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When AI Writes the Code, Review Becomes a Safety System</title>
       <description>What does code review mean when AI agents write most of the code? In this deep dive on Addy Osmani's X article "How the Claude Code team does code review" (October 26, 2026), we walk through the account of how review shifts from reading every line to a layered safety system: checks before a pull request (tests, builds, screenshot comparison, fresh-context agent review), an automated PR reviewer with parallel agents and a voting step to cut false positives, a security gate, human approval scaled by risk, merge queues, feature flags and gradual release, one-step reverts, testing the reviewer against past incidents, stopping rules for agent review loops, new ways to learn a codebase, and the norm "you land it, you own it." We present the practices as the article's account; reported results aren't independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/3SEck2pgpVs9cRa9iYTn_RpSecrDdr74cUilvJFbCHI=</description>
