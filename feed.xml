@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:37:56 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:37:59 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Company That Runs on Agents—and Keeps Humans for Taste</title>
+      <description>A ten-person company says it shipped 77,000 substantial changes in a month and spent $3.1 million on AI tokens doing it. In this deep dive on Jacob's (@jsnnsa) X article "How I Built the Most AI-Pilled Company in the World" (October 29, 2026), we walk through the founder's account of Spawn: a permanent fleet of named AI agents that own parts of the company, coordination through the shared code and product instead of announcements (stigmergy, borrowed from ants), no pull requests, fix-forward repair and hourly shipping, "hyper observability," hard-coded gates for irreversible actions, AI judges built from two years of recorded decisions, and the new human jobs of taste and ambition. All figures and model comparisons are the founder's reported claims, not independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/hN-f0phlp_2PljPqohvrx3CI1Eq4A2PZbzpZpvKO_nc=</description>
+      <itunes:summary>A ten-person company says it shipped 77,000 substantial changes in a month and spent $3.1 million on AI tokens doing it. In this deep dive on Jacob's (@jsnnsa) X article "How I Built the Most AI-Pilled Company in the World" (October 29, 2026), we walk through the founder's account of Spawn: a permanent fleet of named AI agents that own parts of the company, coordination through the shared code and product instead of announcements (stigmergy, borrowed from ants), no pull requests, fix-forward repair and hourly shipping, "hyper observability," hard-coded gates for irreversible actions, AI judges built from two years of recorded decisions, and the new human jobs of taste and ambition. All figures and model comparisons are the founder's reported claims, not independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/hN-f0phlp_2PljPqohvrx3CI1Eq4A2PZbzpZpvKO_nc=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/spawn-ai-pilled-company-jsnnsa.mp3" length="23019563" type="audio/mpeg"/>
+      <guid isPermaLink="false">cfbc23b1-f3ac-40ff-ba93-840a69bcf1eb</guid>
+      <pubDate>Thu, 29 Oct 2026 12:39:00 -0700</pubDate>
+      <itunes:duration>23:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Hidden Engineering Muscle Behind Reliable AI</title>
       <description>An AI feature that works 80% of the time only gets five runs in a row right about a third of the time. In this deep dive on diva's (@divaagurlxw) X post "Evals are the most underrated skill in AI engineering" (October 28, 2026), we unpack all fifteen of the author's practices: error analysis before metrics, versioned golden datasets, synthetic data built from explicit dimensions, deterministic checks first, evaluating retrieval separately from generation, trajectory evals for agents, pass@k versus pass^k, simulated users, calibrating LLM judges, controlling judge bias, respecting statistics, gating deploys in CI, online evals, cost and latency as metrics, and closing the loop, plus a worked example. Claims are presented as the author's. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ekKoQk_mfSPOMhS6p3gGwx4CQZT5VjLZ2uhN5_8Z2xc=</description>

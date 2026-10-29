@@ -709,5 +709,14 @@
     "length": 22137669,
     "duration": 1384,
     "pub_date": "2026-10-29T12:38:00-07:00"
+  },
+  {
+    "guid": "cfbc23b1-f3ac-40ff-ba93-840a69bcf1eb",
+    "title": "The Company That Runs on Agents\u2014and Keeps Humans for Taste",
+    "description": "A ten-person company says it shipped 77,000 substantial changes in a month and spent $3.1 million on AI tokens doing it. In this deep dive on Jacob's (@jsnnsa) X article \"How I Built the Most AI-Pilled Company in the World\" (October 29, 2026), we walk through the founder's account of Spawn: a permanent fleet of named AI agents that own parts of the company, coordination through the shared code and product instead of announcements (stigmergy, borrowed from ants), no pull requests, fix-forward repair and hourly shipping, \"hyper observability,\" hard-coded gates for irreversible actions, AI judges built from two years of recorded decisions, and the new human jobs of taste and ambition. All figures and model comparisons are the founder's reported claims, not independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/hN-f0phlp_2PljPqohvrx3CI1Eq4A2PZbzpZpvKO_nc=",
+    "file": "spawn-ai-pilled-company-jsnnsa.mp3",
+    "length": 23019563,
+    "duration": 1439,
+    "pub_date": "2026-10-29T12:39:00-07:00"
   }
 ]
