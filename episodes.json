@@ -700,5 +700,14 @@
     "length": 22253025,
     "duration": 1391,
     "pub_date": "2026-10-27T08:39:22.502150-07:00"
+  },
+  {
+    "guid": "3fa18c3f-c420-45b1-bc32-c1a9461a52a4",
+    "title": "The Hidden Engineering Muscle Behind Reliable AI",
+    "description": "An AI feature that works 80% of the time only gets five runs in a row right about a third of the time. In this deep dive on diva's (@divaagurlxw) X post \"Evals are the most underrated skill in AI engineering\" (October 28, 2026), we unpack all fifteen of the author's practices: error analysis before metrics, versioned golden datasets, synthetic data built from explicit dimensions, deterministic checks first, evaluating retrieval separately from generation, trajectory evals for agents, pass@k versus pass^k, simulated users, calibrating LLM judges, controlling judge bias, respecting statistics, gating deploys in CI, online evals, cost and latency as metrics, and closing the loop, plus a worked example. Claims are presented as the author's. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ekKoQk_mfSPOMhS6p3gGwx4CQZT5VjLZ2uhN5_8Z2xc=",
+    "file": "evals-underrated-skill-divaagurlxw.mp3",
+    "length": 22137669,
+    "duration": 1384,
+    "pub_date": "2026-10-29T12:38:00-07:00"
   }
 ]

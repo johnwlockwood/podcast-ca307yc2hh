@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:39:22 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:37:56 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Hidden Engineering Muscle Behind Reliable AI</title>
+      <description>An AI feature that works 80% of the time only gets five runs in a row right about a third of the time. In this deep dive on diva's (@divaagurlxw) X post "Evals are the most underrated skill in AI engineering" (October 28, 2026), we unpack all fifteen of the author's practices: error analysis before metrics, versioned golden datasets, synthetic data built from explicit dimensions, deterministic checks first, evaluating retrieval separately from generation, trajectory evals for agents, pass@k versus pass^k, simulated users, calibrating LLM judges, controlling judge bias, respecting statistics, gating deploys in CI, online evals, cost and latency as metrics, and closing the loop, plus a worked example. Claims are presented as the author's. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ekKoQk_mfSPOMhS6p3gGwx4CQZT5VjLZ2uhN5_8Z2xc=</description>
+      <itunes:summary>An AI feature that works 80% of the time only gets five runs in a row right about a third of the time. In this deep dive on diva's (@divaagurlxw) X post "Evals are the most underrated skill in AI engineering" (October 28, 2026), we unpack all fifteen of the author's practices: error analysis before metrics, versioned golden datasets, synthetic data built from explicit dimensions, deterministic checks first, evaluating retrieval separately from generation, trajectory evals for agents, pass@k versus pass^k, simulated users, calibrating LLM judges, controlling judge bias, respecting statistics, gating deploys in CI, online evals, cost and latency as metrics, and closing the loop, plus a worked example. Claims are presented as the author's. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ekKoQk_mfSPOMhS6p3gGwx4CQZT5VjLZ2uhN5_8Z2xc=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/evals-underrated-skill-divaagurlxw.mp3" length="22137669" type="audio/mpeg"/>
+      <guid isPermaLink="false">3fa18c3f-c420-45b1-bc32-c1a9461a52a4</guid>
+      <pubDate>Thu, 29 Oct 2026 12:38:00 -0700</pubDate>
+      <itunes:duration>23:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Why a real buyer would find it weird not to buy from you</title>
       <description>Stop asking how to convince a buyer, and ask why it would be weird for them not to buy right now. In this deep dive on "An 86-minute guide to finding PMF" with Rob Snyder, author of The Power of Pull, we walk through the framework's three ingredients (a project on the buyer's to-do list, a reason it's unavoidable now, and options that genuinely fall short), why pull belongs to a person rather than a company, the design partner trap, field immersion, the one-slide pull hypothesis, "founder magic" outreach, goblin mode, what a real buying signal sounds like, the five-call loop and the last-ditch ask, retention milestones, the case study factory and theory of constraints, and how Snyder sees AI compressing the zero-to-one stage, plus the Jump case study, where one missing ingredient erased demand. Claims and figures are Snyder's, as told in the interview. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/xTBPvGUmvnTHDRpOE_1aTsnOk7QWc1Y-D5dC6xcF6ms=</description>
