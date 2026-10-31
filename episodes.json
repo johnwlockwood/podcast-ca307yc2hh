@@ -718,5 +718,14 @@
     "length": 23019563,
     "duration": 1439,
     "pub_date": "2026-10-29T12:39:00-07:00"
+  },
+  {
+    "guid": "0ee93e66-193b-4bcc-a133-859b36b3d40a",
+    "title": "When CI Gets Fast, the Bottleneck Moves to You",
+    "description": "A pull request that waited up to 40 minutes for CI now waits 2. In this deep dive on Owen's (@owengretzinger) X article \"How I made our CI 20x faster (steal this)\" (October 30, 2026), we walk through the author's account of speeding up CI at Boardy, where coding agents write every PR: moving off GitHub's default runners, Oxlint instead of ESLint, switching typecheckers three times in a month, sharding tests onto bigger machines, sharing Vitest workers, the year-old cache bug an agent audit uncovered, blobless clones, change-aware testing and the skip logic that once reported a false green, pre-push hooks instead of written instructions, a CI bill that rose from $230 to $4,300 a month, and why the next bottleneck is the human clicking merge. All timings and costs are the author's reported figures. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WnXw_Hr_lLTyyyZ9naudVi2Qwf5DHmTqM8oxgKbsYNY=",
+    "file": "ci-20x-faster-owengretzinger.mp3",
+    "length": 22804314,
+    "duration": 1425,
+    "pub_date": "2026-10-31T14:30:04.308811-07:00"
   }
 ]
