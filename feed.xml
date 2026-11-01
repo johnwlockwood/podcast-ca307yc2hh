@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 14:30:04 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:25:22 -0800</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Five Money Equations—and the Assumptions Behind Them</title>
+      <description>A fund that goes up 50%, down 50%, then up 50% averages nearly 17% a year on paper, but it turns $100 into only $112.50. In this deep dive on Lumen's (@lumenxbt) X article "The Five Equations That Quietly Run Your Entire Financial Life (And Why School Never Showed You Any)" (July 28, 2026), we walk through the author's five equations: compound growth, the Rule of 72 (and its use in reverse for inflation), present value, the geometric mean and variance drag, and real return after inflation. We also cover the author's claims about fees, mortgages, lotteries, and insurance. We check the author's numbers along the way, flag a few examples that don't hold as written, and separate the standard math from the article's rhetoric about finance being withheld. Discount rates, price indexes, behavioral biases, and scenario modeling show where assumptions matter. This is an explainer, not financial advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/iuEVny_nHG90yojUijD0KnPihSnthG96GicDD2j-VAQ=</description>
+      <itunes:summary>A fund that goes up 50%, down 50%, then up 50% averages nearly 17% a year on paper, but it turns $100 into only $112.50. In this deep dive on Lumen's (@lumenxbt) X article "The Five Equations That Quietly Run Your Entire Financial Life (And Why School Never Showed You Any)" (July 28, 2026), we walk through the author's five equations: compound growth, the Rule of 72 (and its use in reverse for inflation), present value, the geometric mean and variance drag, and real return after inflation. We also cover the author's claims about fees, mortgages, lotteries, and insurance. We check the author's numbers along the way, flag a few examples that don't hold as written, and separate the standard math from the article's rhetoric about finance being withheld. Discount rates, price indexes, behavioral biases, and scenario modeling show where assumptions matter. This is an explainer, not financial advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/iuEVny_nHG90yojUijD0KnPihSnthG96GicDD2j-VAQ=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/five-money-equations-lumenxbt.mp3" length="23340973" type="audio/mpeg"/>
+      <guid isPermaLink="false">9b37fa05-7051-4f19-9697-4eaad25be515</guid>
+      <pubDate>Sun, 01 Nov 2026 14:25:22 -0800</pubDate>
+      <itunes:duration>24:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When CI Gets Fast, the Bottleneck Moves to You</title>
       <description>A pull request that waited up to 40 minutes for CI now waits 2. In this deep dive on Owen's (@owengretzinger) X article "How I made our CI 20x faster (steal this)" (October 30, 2026), we walk through the author's account of speeding up CI at Boardy, where coding agents write every PR: moving off GitHub's default runners, Oxlint instead of ESLint, switching typecheckers three times in a month, sharding tests onto bigger machines, sharing Vitest workers, the year-old cache bug an agent audit uncovered, blobless clones, change-aware testing and the skip logic that once reported a false green, pre-push hooks instead of written instructions, a CI bill that rose from $230 to $4,300 a month, and why the next bottleneck is the human clicking merge. All timings and costs are the author's reported figures. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/WnXw_Hr_lLTyyyZ9naudVi2Qwf5DHmTqM8oxgKbsYNY=</description>
