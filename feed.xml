@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 06:21:42 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:42:48 -0800</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>The Demand Engine: Turning Content Into a Brand Buyers Remember</title>
+      <description>Imagine tripling the leads coming into your business overnight. In this deep dive on Jay Yang's (@jayyanginspires) X article "The 2027 Marketing Playbook: How to Generate So Much Demand It Breaks Your Business" (October 31, 2026), we walk through the author's system. It covers current versus future demand, branding as teaching associations, the power-trust-likeness framework, niching by transformation instead of topic, and LTV to CAC. We also get into the content multiplication system (a Hall of Fame plus repost, repurpose, remix), the six Ps of copy thinking and five Cs of internet writing, and exploring with organic before exploiting with paid ads. Finally, we cover customer research from sales calls, offer design, awareness levels, and the author's rules on honest advertising. Revenue and platform figures are the author's own claims, and this is not business or financial advice. We also look at what the article doesn't cover: privacy and respectful targeting, and the risk that demand outruns capacity. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/lR0_vdCyXiPwZFpnY7c0vka7uTpsHDfpjKUX4TWvcV0=</description>
+      <itunes:summary>Imagine tripling the leads coming into your business overnight. In this deep dive on Jay Yang's (@jayyanginspires) X article "The 2027 Marketing Playbook: How to Generate So Much Demand It Breaks Your Business" (October 31, 2026), we walk through the author's system. It covers current versus future demand, branding as teaching associations, the power-trust-likeness framework, niching by transformation instead of topic, and LTV to CAC. We also get into the content multiplication system (a Hall of Fame plus repost, repurpose, remix), the six Ps of copy thinking and five Cs of internet writing, and exploring with organic before exploiting with paid ads. Finally, we cover customer research from sales calls, offer design, awareness levels, and the author's rules on honest advertising. Revenue and platform figures are the author's own claims, and this is not business or financial advice. We also look at what the article doesn't cover: privacy and respectful targeting, and the risk that demand outruns capacity. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/lR0_vdCyXiPwZFpnY7c0vka7uTpsHDfpjKUX4TWvcV0=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/demand-engine-jayyanginspires.mp3" length="22849453" type="audio/mpeg"/>
+      <guid isPermaLink="false">2d8daecc-95c9-4440-b6ba-8622512d7999</guid>
+      <pubDate>Mon, 02 Nov 2026 14:42:48 -0800</pubDate>
+      <itunes:duration>23:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>How Staff Engineers Turn Company Priorities Into Technical Wins</title>
       <description>Some program of work will get funded whether engineers prepare or not. The only question is whether it's a good one. In this deep dive on Sean Goedecke's essay "How I influence tech company politics as a staff software engineer" (October 4, 2025), we walk through the author's case for influence without scheming: agreeing that engineers can't out-play real political operators, making high-profile projects succeed, letting executives spend their political capital on your idea, and riding waves of organizational attention like a post-incident reliability push. We also cover keeping a portfolio of detailed technical plans ready, why companies make their worst decisions when the need to do something meets a lack of good ideas, the Milton Friedman quote about ideas lying around in a crisis, and the cynical versus optimistic readings of the whole approach. The author limits the advice to broadly functional companies. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/DFKuaHLd223q30aUS5gAWsKAMStr6z3MaokIOk2_RzI=</description>
