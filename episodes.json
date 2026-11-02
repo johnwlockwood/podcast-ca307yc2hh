@@ -736,5 +736,14 @@
     "length": 23340973,
     "duration": 1459,
     "pub_date": "2026-11-01T14:25:22.739004-08:00"
+  },
+  {
+    "guid": "34b5a007-e8b3-4339-b5ab-8c3d1f77cba3",
+    "title": "How Staff Engineers Turn Company Priorities Into Technical Wins",
+    "description": "Some program of work will get funded whether engineers prepare or not. The only question is whether it's a good one. In this deep dive on Sean Goedecke's essay \"How I influence tech company politics as a staff software engineer\" (October 4, 2025), we walk through the author's case for influence without scheming: agreeing that engineers can't out-play real political operators, making high-profile projects succeed, letting executives spend their political capital on your idea, and riding waves of organizational attention like a post-incident reliability push. We also cover keeping a portfolio of detailed technical plans ready, why companies make their worst decisions when the need to do something meets a lack of good ideas, the Milton Friedman quote about ideas lying around in a crisis, and the cynical versus optimistic readings of the whole approach. The author limits the advice to broadly functional companies. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/DFKuaHLd223q30aUS5gAWsKAMStr6z3MaokIOk2_RzI=",
+    "file": "influence-tech-politics-seangoedecke.mp3",
+    "length": 22616650,
+    "duration": 1414,
+    "pub_date": "2026-11-02T06:21:42.140889-08:00"
   }
 ]
