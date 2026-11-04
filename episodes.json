@@ -754,5 +754,14 @@
     "length": 22849453,
     "duration": 1428,
     "pub_date": "2026-11-02T14:42:48.802651-08:00"
+  },
+  {
+    "guid": "1220b20d-c6f8-41f9-a1c4-d6f30aa3829d",
+    "title": "When AI Does the Work, Who\u2019s Still Thinking?",
+    "description": "An agent hands you a 600-line pull request, the tests pass, and you approve it. But did you really review it? In this deep dive on Addy Osmani's X article \"Critical thinking when agents do the work\" (November 3, 2026), we walk through the author's case for keeping human judgment active as agents take on more work. We cover the spectrum from cognitive offloading to deferral to cognitive surrender, cognitive and comprehension debt, and rebuilding understanding on demand. We also go through the author's new self-check questions, verification loops and the blind spots of a green check, reading what an agent decided rather than just what it changed, the orchestration tax, intent debt and prompting as a thinking skill, the paradox of supervision, and practical habits for staying calibrated. The author is a fan of agentic tools. This is about using them without surrendering accountability. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/1sRiI415BR2OFfY5REK4GGs5esiv8RpJIxeI7CqNS24=",
+    "file": "critical-thinking-agents-addyosmani.mp3",
+    "length": 21043034,
+    "duration": 1315,
+    "pub_date": "2026-11-04T06:10:20.998444-08:00"
   }
 ]
