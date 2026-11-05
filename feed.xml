@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:10:21 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:17:14 -0800</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>When Everyone Finds the Same Trade, Who’s Left to Buy?</title>
+      <description>Being right about a company used to be how a hedge fund idea got paid. In this deep dive on Ying Hua's (@huaxying) X post (November 5, 2026), we walk through the author's account of how that path can break as market structure changes. The piece covers the old fundamental playbook, how alternative data raised the game and then crowded it, and a first principle: someone has to follow your trade. We go through ETF growth, multi-manager pods, long-only rotation, and retail; "hedge fund hotels" in financials and energy; alt-data sectors where everyone had the same read; why tech and biotech still worked for a time; and a compiled table of MTUM extreme months versus multi-manager performance (figures presented as the author's, from publicly available sources aggregated by Implied). We also cover leverage and tight drawdown limits, possible spillover when the same names sit in many portfolios, and the author's open question about AI. This is one practitioner's view of market structure, not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/bZQZMNSnFHEskyKE9AmAcrv7oRvUSsAbfcqTSOMuwic=</description>
+      <itunes:summary>Being right about a company used to be how a hedge fund idea got paid. In this deep dive on Ying Hua's (@huaxying) X post (November 5, 2026), we walk through the author's account of how that path can break as market structure changes. The piece covers the old fundamental playbook, how alternative data raised the game and then crowded it, and a first principle: someone has to follow your trade. We go through ETF growth, multi-manager pods, long-only rotation, and retail; "hedge fund hotels" in financials and energy; alt-data sectors where everyone had the same read; why tech and biotech still worked for a time; and a compiled table of MTUM extreme months versus multi-manager performance (figures presented as the author's, from publicly available sources aggregated by Implied). We also cover leverage and tight drawdown limits, possible spillover when the same names sit in many portfolios, and the author's open question about AI. This is one practitioner's view of market structure, not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/bZQZMNSnFHEskyKE9AmAcrv7oRvUSsAbfcqTSOMuwic=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/same-trade-who-buys-huaxying.mp3" length="22783834" type="audio/mpeg"/>
+      <guid isPermaLink="false">d9c8c2eb-376e-43e7-88ff-22191f4468a4</guid>
+      <pubDate>Thu, 05 Nov 2026 15:17:14 -0800</pubDate>
+      <itunes:duration>23:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>When AI Does the Work, Who’s Still Thinking?</title>
       <description>An agent hands you a 600-line pull request, the tests pass, and you approve it. But did you really review it? In this deep dive on Addy Osmani's X article "Critical thinking when agents do the work" (November 3, 2026), we walk through the author's case for keeping human judgment active as agents take on more work. We cover the spectrum from cognitive offloading to deferral to cognitive surrender, cognitive and comprehension debt, and rebuilding understanding on demand. We also go through the author's new self-check questions, verification loops and the blind spots of a green check, reading what an agent decided rather than just what it changed, the orchestration tax, intent debt and prompting as a thinking skill, the paradox of supervision, and practical habits for staying calibrated. The author is a fan of agentic tools. This is about using them without surrendering accountability. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/1sRiI415BR2OFfY5REK4GGs5esiv8RpJIxeI7CqNS24=</description>
