@@ -772,5 +772,14 @@
     "length": 22783834,
     "duration": 1424,
     "pub_date": "2026-11-05T15:17:14.675234-08:00"
+  },
+  {
+    "guid": "94304e6d-8afa-4f8e-a1e6-6e870d2e810b",
+    "title": "The Real AI Bottleneck Isn\u2019t Intelligence\u2014it\u2019s Synchronization",
+    "description": "On a Sunday, a major car-company CEO posts in public about fitting a decoder into on-chip memory, eight-bit integer limits, and a twenty-eight-step workaround. In this deep dive on Brivael Le Pogam's (@brivael) X post (November 22, 2026), we walk through the author's thesis: as AI makes raw intelligence cheaper, the scarce advantages become synchronization and control of physical infrastructure. The piece covers the author's recap of Elon Musk's posts on SRAM, accelerators, AI4, AI5, and Optimus; a first-principles view of a company as a machine that turns intent into reality; lossy handoffs and how agents can amplify bad intent; the \"Elon method\" as attributed to Marc Andreessen and a hard-to-copy condition attributed to Ben Horowitz; and a claimed industrial loop of vehicles, chips, compute, energy, robots, and rockets. Technical details and competitive conclusions are the author's and Musk's claims, not independently verified. This is not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/CH8_WBZHYiPgQOTVYJQXKwPb-05pxS8TgtNOoRhjxSQ=",
+    "file": "ai-bottleneck-synchronization-brivael.mp3",
+    "length": 23212660,
+    "duration": 1451,
+    "pub_date": "2026-11-22T11:47:37.750374-08:00"
   }
 ]
