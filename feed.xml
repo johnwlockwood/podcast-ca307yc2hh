@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 22:21:16 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:16:03 -0800</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Beyond Superintelligence: Who Gets to Shape the Future?</title>
+      <description>Alexandr Wang's essay "Superintelligence is Arriving" (November 22, 2026) argues that how humanity acts over the next year will have great consequence, and that raw intelligence is no longer the bottleneck—domain know-how, tools, and experiments are. In this deep dive we walk through the author's claimed reasoning milestones, including an unverified assertion that the Riemann Hypothesis has been proved with AI assistance, an earlier contest result from December 2024, the risk of research that improves itself faster than people can monitor, and the author's warning against a "handover" of society to AI. The essay's forecasts and milestones are presented as the author's claims, not independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/1EySxVOHdMXYGtlN4dNgGbPIhBWEiutD6NCa4w63HP4=</description>
+      <itunes:summary>Alexandr Wang's essay "Superintelligence is Arriving" (November 22, 2026) argues that how humanity acts over the next year will have great consequence, and that raw intelligence is no longer the bottleneck—domain know-how, tools, and experiments are. In this deep dive we walk through the author's claimed reasoning milestones, including an unverified assertion that the Riemann Hypothesis has been proved with AI assistance, an earlier contest result from December 2024, the risk of research that improves itself faster than people can monitor, and the author's warning against a "handover" of society to AI. The essay's forecasts and milestones are presented as the author's claims, not independently verified. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/1EySxVOHdMXYGtlN4dNgGbPIhBWEiutD6NCa4w63HP4=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/beyond-superintelligence-alexandrwang.mp3" length="22684359" type="audio/mpeg"/>
+      <guid isPermaLink="false">d3ea02e4-f356-4fac-b51d-5e35d9f52fd3</guid>
+      <pubDate>Sun, 22 Nov 2026 23:16:03 -0800</pubDate>
+      <itunes:duration>23:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Nvidia’s AI Moat: The Hidden Forces Behind Its Next Act</title>
       <description>A decade after Nvidia talked about AI, autonomous vehicles, and robotics, the author of this breakdown says the bet looks correct, and that what comes next is genuinely open-ended. In this deep dive on Drew Cohen's (@DrewCohenMoney) X article "Nvidia Stock Crashed — Understand It Better Than 99% of Investors" (November 20, 2026), we walk through the author's account of Nvidia's shift from gaming chips to integrated "AI factories," the CUDA software platform, competition from custom chips at Google, Microsoft, Amazon, and Meta, neo-cloud and sovereign customers, circular financing claims, and a valuation framework the author refuses to treat as a precise forecast. The article's figures, competitive claims, and especially its assertion of a founder-CEO resignation and a sharp stock drop are presented as the author's claims, not independently verified. This is not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/vQ3SnSFUe_oN9auKog9tEwF_3oMvCjH4cM3mzo5xK4M=</description>
