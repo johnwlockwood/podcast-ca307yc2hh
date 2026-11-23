@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-ca307yc2hh/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:47:37 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:21:16 -0800</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>Private AI-generated two-host audio walkthroughs of knowledge graphs and articles.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>John's Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-ca307yc2hh/</link>
     </image>
+    <item>
+      <title>Nvidia’s AI Moat: The Hidden Forces Behind Its Next Act</title>
+      <description>A decade after Nvidia talked about AI, autonomous vehicles, and robotics, the author of this breakdown says the bet looks correct, and that what comes next is genuinely open-ended. In this deep dive on Drew Cohen's (@DrewCohenMoney) X article "Nvidia Stock Crashed — Understand It Better Than 99% of Investors" (November 20, 2026), we walk through the author's account of Nvidia's shift from gaming chips to integrated "AI factories," the CUDA software platform, competition from custom chips at Google, Microsoft, Amazon, and Meta, neo-cloud and sovereign customers, circular financing claims, and a valuation framework the author refuses to treat as a precise forecast. The article's figures, competitive claims, and especially its assertion of a founder-CEO resignation and a sharp stock drop are presented as the author's claims, not independently verified. This is not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/vQ3SnSFUe_oN9auKog9tEwF_3oMvCjH4cM3mzo5xK4M=</description>
+      <itunes:summary>A decade after Nvidia talked about AI, autonomous vehicles, and robotics, the author of this breakdown says the bet looks correct, and that what comes next is genuinely open-ended. In this deep dive on Drew Cohen's (@DrewCohenMoney) X article "Nvidia Stock Crashed — Understand It Better Than 99% of Investors" (November 20, 2026), we walk through the author's account of Nvidia's shift from gaming chips to integrated "AI factories," the CUDA software platform, competition from custom chips at Google, Microsoft, Amazon, and Meta, neo-cloud and sovereign customers, circular financing claims, and a valuation framework the author refuses to treat as a precise forecast. The article's figures, competitive claims, and especially its assertion of a founder-CEO resignation and a sharp stock drop are presented as the author's claims, not independently verified. This is not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/vQ3SnSFUe_oN9auKog9tEwF_3oMvCjH4cM3mzo5xK4M=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/nvidia-ai-moat-drewcohenmoney.mp3" length="24606972" type="audio/mpeg"/>
+      <guid isPermaLink="false">b09fa86d-11cb-4a64-9521-3ff2efeb5fd8</guid>
+      <pubDate>Sun, 22 Nov 2026 22:21:15 -0800</pubDate>
+      <itunes:duration>25:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>The Real AI Bottleneck Isn’t Intelligence—it’s Synchronization</title>
       <description>On a Sunday, a major car-company CEO posts in public about fitting a decoder into on-chip memory, eight-bit integer limits, and a twenty-eight-step workaround. In this deep dive on Brivael Le Pogam's (@brivael) X post (November 22, 2026), we walk through the author's thesis: as AI makes raw intelligence cheaper, the scarce advantages become synchronization and control of physical infrastructure. The piece covers the author's recap of Elon Musk's posts on SRAM, accelerators, AI4, AI5, and Optimus; a first-principles view of a company as a machine that turns intent into reality; lossy handoffs and how agents can amplify bad intent; the "Elon method" as attributed to Marc Andreessen and a hard-to-copy condition attributed to Ben Horowitz; and a claimed industrial loop of vehicles, chips, compute, energy, robots, and rockets. Technical details and competitive conclusions are the author's and Musk's claims, not independently verified. This is not investment advice. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/CH8_WBZHYiPgQOTVYJQXKwPb-05pxS8TgtNOoRhjxSQ=</description>
